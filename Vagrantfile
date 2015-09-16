@@ -18,5 +18,5 @@ Vagrant.configure(2) do |config|
         vb.name = VB_NAME
     end
 
-    config.vm.provision "shell", path:"provision.sh"
+    config.vm.provision "shell", privileged: false, path:"provision.sh"
 end
