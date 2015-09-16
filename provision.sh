@@ -9,7 +9,7 @@ sudo apt-get -y upgrade
 sudo apt-get -y install build-essential python-pip python3-pip gdal-bin python-gdal python3-gdal python-dev python-setuptools libgdal-dev libgeos-dev git wget python-mpltoolkits.basemap
 
 # Use pip to install the additional python packages we'll need
-yes | sudo pip2 install ipython[notebook] pandas fiona shapely requests sqlalchemy geopandas mplleaflet==0.0.2
+yes | sudo pip2 install ipython[notebook] pandas fiona shapely rasterio rasterstats requests sqlalchemy geopandas mplleaflet==0.0.2
 
 # Symlink the /vagrant shared directory to home directory
 if [ ! -L ~/workspace ]; then
