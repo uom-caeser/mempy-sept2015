@@ -6,7 +6,6 @@ To get started, run the following commands:
 1. Download the code from [Github](https://github.com/uom-caeser/mempy-sept2015). If you don't want to use the git command line, download the [zip file](https://github.com/uom-caeser/mempy-sept2015/archive/master.zip) instead.
 
     ```
-    # If you don't have/want git, visit https://github.com/uom-caeser/mempy-sept2015 and click 'Download ZIP' instead
     git clone https://github.com/uom-caeser/mempy-sept2015.git
     cd mempy-sept2015
     vagrant up
