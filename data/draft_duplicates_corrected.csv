@@ -1,0 +1,707 @@
+ID,PARID_x,PARID_y,OWN1_x,OWN1_y,adrcomp_x,adrcomp_y,own_distance,adr_distance,correct
+153,061018  00006,031011  00009,powell joe juanita,powell joe jr juanita s,1404 s willett st memphis tn 38106,1404 s willett st memphis tn 38106,92,100,1
+791,061018  00006,031015  00003,powell joe juanita,powell joseph juanita s,1404 s willett st memphis tn 38106,1404 s willett st memphis tn 38106,88,100,1
+55455,075160  00003,078041  00015,m e g capital management corp,m e g capital management inc,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,89,100,1
+56098,075160  00003,075111  00035,m e g capital management corp,meg capital management corp,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,90.33333333,100,1
+56766,075160  00003,082024  00011,m e g capital management corp,meg captial management,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,75.66666667,100,1
+68289,071024  00008,018045  00009C,memphis investment properties llc,memphis investment rental properties llc,4701 summer ave memphis tn 38122,4701 summer ave memphis tn 38122,93.33333333,100,1
+71907,071024  00008,045112  00033,memphis investment properties llc,memphis investment rental properties,4701 summer ave memphis tn 38122,4701 summer ave memphis tn 38122,87.33333333,100,1
+115421,041029  00037,075047  00001,high pointe investments llc,high pointe investments,9245 poplar ave germantown tn 38138,9245 poplar ave germantown tn 38138,94.66666667,100,1
+148722,025064  00027,025061  00013,braxton carolyn,braxton kevin,9840 quebec ln arlington tn 38002,9840 quebec ln arlington tn 38002,66,100,1
+203734,039047  00008,027001  00013,ambassadors for christ ministries trs,ambassador for christ ministries,3413 rebeh rd memphis tn 38109,3413 rebeh rd memphis tn 38109,93,100,1
+209974,039050  00057,039050  00044,covington g w irene,covington george w irene,1146 pearce st memphis tn 38107,1146 pearce st memphis tn 38107,90,100,1
+214362,079067 A00009,075140 A00078,davis willie jr,davis rebecca etal,2030 mcpherson rd memphis tn 38116,2030 mcpherson rd memphis tn 38116,48.66666667,100,1
+268166,039032  00010,052058  00016,smith jasper and kenny r smith and,smith jasper and kenney r smith and,2546 houck ave memphis tn 38108,2546 houck ave memphis tn 38108,98.66666667,100,1
+270541,039032  00010,039032  00031,smith jasper and kenny r smith and,smith christopher and odessa holmes and,2546 houck ave memphis tn 38108,2546 houck ave memphis tn 38108,59.33333333,100,1
+370430,049042  00011,072104 B00027,verticial mortgage fund i llc,vertical mortgage fund i llc,20 pacifica irvine ca 92618,20 pacifica irvine ca 92618,98,100,1
+384018,075018  00071,032013  00030,foster david b,rock investment group,3187 toby ln memphis tn 38111,3187 toby ln memphis tn 38111,32.33333333,100,1
+392816,053047  00016,043077  00029C,docker charlie,dockery charles,962 oakview st memphis tn 38114,962 oakview st memphis tn 38114,90,100,1
+464423,059016  00221,059016  00218,kumar punam,kumar jatin,2240 deadrick ave memphis tn 38114,2240 deadrick ave memphis tn 38114,57.66666667,100,1
+467187,059016  00221,047020  00031C,kumar punam,kumar narenda r pramila,2240 deadrick ave memphis tn 38114,2240 deadrick ave memphis tn 38114,56.33333333,100,1
+515076,069012  00028,069012  00031,pierce monroe le and betty c drugman,pierce jeanette s,3020 benjestown rd memphis tn 38127,3020 benjestown rd memphis tn 38127,51.66666667,100,1
+549507,059041  00018,059041  00009,hansom thomas e and sons pso,hansom thomas e sons pso,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,94.66666667,100,1
+551471,059041  00018,058001  00018,hansom thomas e and sons pso,hanson thomas e sons,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,79,100,1
+551542,059041  00018,059041  00016,hansom thomas e and sons pso,hansom thomas e and sonspso,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,90.66666667,100,1
+564404,047027  00023,088070  00016,pearce ernestine le and richard pearce,pearce james r and ernestine pearce rs,596 waring rd memphis tn 38122,596 waring rd memphis tn 38122,76,100,1
+663493,023016  00042C,060079  00099,arnold willie j,arnold willie,1849 meadowhill memphis tn 38106,1849 meadowhill memphis tn 38106,95.33333333,100,1
+663494,023016  00042C,060079  00100,arnold willie j,ivy eva d,1849 meadowhill memphis tn 38106,1849 meadowhill memphis tn 38106,30.33333333,100,1
+694952,031011  00009,031015  00003,powell joe jr juanita s,powell joseph juanita s,1404 s willett st memphis tn 38106,1404 s willett st memphis tn 38106,87,100,1
+698853,045019  00017,045019  00020,dawning investments llc series e,dawning investments llc series f,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+699597,045019  00017,043070  00049,dawning investments llc series e,dawning investments llc series c,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+699845,045019  00017,045019  00041,dawning investments llc series e,dawning investments llc series d,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+700148,045019  00017,073025  00012,dawning investments llc series e,dawning investments llc series a,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+701225,045019  00017,058004  00004,dawning investments llc series e,dawning investments llc series b,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+704134,045019  00020,043070  00049,dawning investments llc series f,dawning investments llc series c,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+704382,045019  00020,045019  00041,dawning investments llc series f,dawning investments llc series d,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+704685,045019  00020,073025  00012,dawning investments llc series f,dawning investments llc series a,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+705762,045019  00020,058004  00004,dawning investments llc series f,dawning investments llc series b,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,96,100,1
+750624,028032  00004C,028024  00009,g g properties l p,gross charles w and charles e gross,2268 madison ave memphis tn 38104,2268 madison ave memphis tn 38104,35.33333333,100,1
+1030144,040025  00106,075087  00087,settle louise le and,settle louise le and brenda s dorsey,420 glencoe rd memphis tn 38109,420 glencoe rd memphis tn 38109,80.66666667,100,1
+1044221,058095  00031,073052  00030,phildax properties pso,mallard properties llc,p o box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,62,100,1
+1046005,058095  00031,082001  00098,phildax properties pso,landshof robert,p o box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,43,100,1
+1065510,018045  00009C,045112  00033,memphis investment rental properties llc,memphis investment rental properties,4701 summer ave memphis tn 38122,4701 summer ave memphis tn 38122,96.66666667,100,1
+1101277,027005  00058,041007  00008,allen samuel c,allen earlie m,950 leath st memphis tn 38107,950 leath st memphis tn 38107,59.33333333,100,1
+1161396,062027  00021,096625 A00005,sanchez rene yolander m,sanchez rene,2518 berryhill rd cordova tn 38016,2518 berryhill rd cordova tn 38016,79.33333333,100,1
+1175562,037010  00011,037010  00010,braswell thomas g,braswell thomas g jr amy t,9336 oak knoll cv cordova tn 38018,9336 oak knoll cv cordova tn 38018,86,100,1
+1193094,079067 A00018,079103  00011,bryant james,bryant james m,7659 brookwater cv memphis tn 38125,7659 brookwater cv memphis tn 38125,94.66666667,100,1
+1294553,026073  00018,076116  00017,williams howard,williams howard r,3347 parker memphis tn 38111,3347 parker memphis tn 38111,96,100,1
+1470563,025066  00005,050013  00063,johnson lawrence magnolia,johnson lawrence inc realtors,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,72.66666667,100,1
+1470683,025066  00005,032008  00009,johnson lawrence magnolia,johnson lawrence associates realtors,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,69.66666667,100,1
+1471770,025066  00005,050034  00021,johnson lawrence magnolia,johnson magnolia,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,85.33333333,100,1
+1532449,055005  00039,044096  00002,hilldale trust,harris charles d ii,4308 hilldale ave memphis tn 38117,4308 hilldale ave memphis tn 38117,40,100,1
+1587632,039006  00010,027004  00017C,sargeant hubert,sargeant hubert s,916 tully st memphis tn 38107,916 tully st memphis tn 38107,96,100,1
+1588934,014028  00053,075006  00011,maddrie robert h doris,foster marlon,1017 latham memphis tn 38106,1017 latham memphis tn 38106,36.33333333,100,1
+1662935,057010  00034,001104  00027,sylvester john m,sylvester john and ryan lemelle and tom,4120 village rd memphis tn 38117,4120 village rd memphis tn 38117,69.66666667,100,1
+1724443,041062  00019,041062  00023,migliara lawrence jr and,migliara vincenzina a,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,56,100,1
+1724508,041062  00019,028005  00024,migliara lawrence jr and,migliara lawrence jr,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,94,100,1
+1724735,041062  00019,001129  00021,migliara lawrence jr and,migliara vincenzina etal,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,54,100,1
+1728267,041062  00019,056037  00007,migliara lawrence jr and,oi investments llc,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,27.33333333,100,1
+1738119,041062  00023,028005  00024,migliara vincenzina a,migliara lawrence jr,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,58.33333333,100,1
+1738346,041062  00023,001129  00021,migliara vincenzina a,migliara vincenzina etal,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,93.66666667,100,1
+1741878,041062  00023,056037  00007,migliara vincenzina a,oi investments llc,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,29.33333333,100,1
+1756570,029087  00018,029040  00016,phillips mattie l le and,jones dorothy p,2758 carnes ave memphis tn 38114,2758 carnes ave memphis tn 38114,24.33333333,100,1
+1757727,029087  00018,049056  00021,phillips mattie l le and,jones dorothy,2758 carnes ave memphis tn 38114,2758 carnes ave memphis tn 38114,20,100,1
+1884412,031004  00016,082010  00063,yancy david queen e,yancy david jr queen e,3771 sewanee rd memphis tn 38109,3771 sewanee rd memphis tn 38109,95.33333333,100,1
+1899500,034064  00013,050042  00019C,stewart william c elizabeth k,gospel truth baptist church tr,1765 gaither st memphis tn 38106,1765 gaither st memphis tn 38106,32,100,1
+1908534,031027  00020,043023  00015,crawford james a chyral k,equity trust company custodian fbo,8830 wood mills cv cordova tn 38016,8830 wood mills cv cordova tn 38016,29.66666667,100,1
+1909566,031027  00020,013046  00042,crawford james a chyral k,davis joe n tr,8830 wood mills cv cordova tn 38016,8830 wood mills cv cordova tn 38016,29.33333333,100,1
+1949023,050017  00036,062024  00016,supreme repairs and investment co llc,supreme repairs investment co llc,po box 753582 memphis tn 38175,po box 753582 memphis tn 38175,96,100,1
+2023139,021088  00028,069006  00049,home opportunity llc,our castle homeowners fund ii llc,700 central expy allen tx 75013,700 central expy allen tx 75013,44.33333333,100,1
+2024292,027001  00002,039047  00006,ambassadors for christ fellowship church,ambassadors for christ ministries,2787 lynchburg st memphis tn 38134,2787 lynchburg st memphis tn 38134,70.33333333,100,1
+2033251,028005  00024,001129  00021,migliara lawrence jr,migliara vincenzina etal,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,54.33333333,100,1
+2036783,028005  00024,056037  00007,migliara lawrence jr,oi investments llc,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,26,100,1
+2056495,051007  00018,021058  00018,community project church of god in chris,community proj ch god christ,924 n dunlap st memphis tn 38107,924 n dunlap st memphis tn 38107,76.33333333,100,1
+2144489,035025  00017,052082  00014,clark keyva d,clark beverly a,5633 overhill dr los angeles ca 90043,5633 overhill dr los angeles ca 90043,54.66666667,100,1
+2194229,052058  00016,039032  00031,smith jasper and kenney r smith and,smith christopher and odessa holmes and,2546 houck ave memphis tn 38108,2546 houck ave memphis tn 38108,58.33333333,100,1
+2308186,037021  00003,037021  00002,byrd patrick w and randy e byrd and,byrd marvin e jr,4460 opal cv memphis tn 38109,4460 opal cv memphis tn 38109,50.33333333,100,1
+2351280,042017  00021,042017  00020,wright joseph c and helen cooper and,moore joseph jr bertha b,1456 oakwood st memphis tn 38108,1456 oakwood st memphis tn 38108,45.33333333,100,1
+2355502,034019  00004,034074  00001,mission golbal ministries,mission global ministries inc,po box 820757 memphis tn 38182,po box 820757 memphis tn 38182,89,100,1
+2356686,034019  00004,070094  00008C,mission golbal ministries,mission global ministries,po box 820757 memphis tn 38182,po box 820757 memphis tn 38182,96,100,1
+2361087,026004  00029,026004  00001,alexander jerome vernesa,alexander jerome vernesa j,po box 1275 memphis tn 38101,po box 1275 memphis tn 38101,97.33333333,100,1
+2362193,026004  00029,026004  00031,alexander jerome vernesa,alexander jerome,po box 1275 memphis tn 38101,po box 1275 memphis tn 38101,86.66666667,100,1
+2367552,037016  00028,070086  00036,walowitz jason,walowitz jason h,45 peaceful valley rd trumbull ct 06611,45 peaceful valley rd trumbull ct 06611,95.33333333,100,1
+2381255,027037  00041,027037  00042,anointed miracle temple of james cooper,cooper minnie,1117 n 7th st memphis tn 38107,1117 n 7th st memphis tn 38107,41.33333333,100,1
+2407104,059041  00009,058001  00018,hansom thomas e sons pso,hanson thomas e sons,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,86,100,1
+2407175,059041  00009,059041  00016,hansom thomas e sons pso,hansom thomas e and sonspso,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,83.33333333,100,1
+2455059,041063  00023,041063  00024,community project church of god in,community project chrurch of god in,924 w dunlap memphis tn 38107,924 w dunlap memphis tn 38107,99,100,1
+2509618,011031  00015,042016  00009,pryor g j,lewis gloria p,2410 chelsea ave memphis tn 38108,2410 chelsea ave memphis tn 38108,32,100,1
+2523691,030008  00017,041001  00149,williams robert jr,williams robert e jr,619 anderson st memphis tn 38104,619 anderson st memphis tn 38104,96.66666667,100,1
+2537229,026046  00004,087007  00011,coletta gerald s diane d,coletta vincent and jerry coletta and,1063 s parkway memphis tn 38106,1063 s parkway memphis tn 38106,50.66666667,100,1
+2537328,026046  00004,026042  00038,coletta gerald s diane d,coletta jerry s diane d,1063 s parkway memphis tn 38106,1063 s parkway memphis tn 38106,85,100,1
+2549713,042038  00057,058008  00006,sjjv llc,j pacific ventures llc,7505 irvine center dr irvine ca 92618,7505 irvine center dr irvine ca 92618,42.66666667,100,1
+2609470,050013  00063,032008  00009,johnson lawrence inc realtors,johnson lawrence associates realtors,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,86.33333333,100,1
+2610557,050013  00063,050034  00021,johnson lawrence inc realtors,johnson magnolia,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,54.33333333,100,1
+2652650,025046  00021,025046  00024,pyramid temple outreach ministries,pyramid temple church of the living god,712 e trigg ave memphis tn 38106,712 e trigg ave memphis tn 38106,56.66666667,100,1
+2686693,063047  00025,053045  00016,moore joanne c and vickie g hilliard,moore raymond e joanne c,4850 given ave memphis tn 38122,4850 given ave memphis tn 38122,58,100,1
+2707448,035069  00024,035067  00027C,bloomfield missionary baptist church,bloomfield full gospel baptist church,123 s parkway memphis tn 38109,123 s parkway memphis tn 38109,76.66666667,100,1
+2751103,041052  00088,041052  00125,mathews andre and marte daniels,matthews andre,2108 stovall ave memphis tn 38108,2108 stovall ave memphis tn 38108,60.66666667,100,1
+2807127,045033  00005,073106  00023,white everlyn l,white tramell r,707 inez st memphis tn 38111,707 inez st memphis tn 38111,60,100,1
+2904906,050079  00018,050042  00011,turner ivory,mays ronald kristin,141 temple ave memphis tn 38109,141 temple ave memphis tn 38109,30,100,1
+2914193,058075  00107C,085026  00075C,midsouth restaurants llc,tn properties inc,653 w poplar ave collierville tn 38017,653 w poplar ave collierville tn 38017,40.66666667,100,1
+2929923,029074  00004,061030  00016,palmer wesley,small martha,1379 catherine st memphis tn 38111,1379 catherine st memphis tn 38111,37.33333333,100,1
+2936669,041032  00026,025010  00005,sims ora,sims ora lillie,416 brockwood cv memphis tn 38109,416 brockwood cv memphis tn 38109,80,100,1
+2936840,041032  00026,076143 A00082,sims ora,sims ora lillie l,416 brockwood cv memphis tn 38109,416 brockwood cv memphis tn 38109,76,100,1
+2956529,062012  00018,062012  00019,murphy doris m,murphy doris h,1773 w lloyd cir memphis tn 38108,1773 w lloyd cir memphis tn 38108,93,100,1
+2957157,062012  00018,062012  00016,murphy doris m,murphy doris,1773 w lloyd cir memphis tn 38108,1773 w lloyd cir memphis tn 38108,94.66666667,100,1
+3002197,014010  00047,014010  00040,odessas foster care home inc,williamson odessa a,6235 malloch dr memphis tn 38119,6235 malloch dr memphis tn 38119,36.66666667,100,1
+3066682,001129  00021,056037  00007,migliara vincenzina etal,oi investments llc,673 cypress dr memphis tn 38112,673 cypress dr memphis tn 38112,32,100,1
+3117730,021001  00027,022021  00061,burress leland jr shirley j,gore floyd l and shirley j burress rs,1012 ayers st memphis tn 38107,1012 ayers st memphis tn 38107,65.33333333,100,1
+3119676,021001  00027,021001  00028,burress leland jr shirley j,burress leland shirley,1012 ayers st memphis tn 38107,1012 ayers st memphis tn 38107,93.33333333,100,1
+3142017,029051  00011,059084  00019,porter pearlie a,porter louis pearlie,1156 s greer st memphis tn 38111,1156 s greer st memphis tn 38111,84.66666667,100,1
+3154997,032008  00009,050034  00021,johnson lawrence associates realtors,johnson magnolia,4222 millbranch rd memphis tn 38116,4222 millbranch rd memphis tn 38116,51,100,1
+3163940,060151  00005,049008  00041,baker ruth,baker ruth u,1770 wendy dr memphis tn 38114,1770 wendy dr memphis tn 38114,94,100,1
+3200728,075087  00349,075087  00373,campbell vaughn 12 and dwayne kerns,watson beatrice,933 fields rd memphis tn 38109,933 fields rd memphis tn 38109,29.33333333,100,1
+3228302,073052  00030,082001  00098,mallard properties llc,landshof robert,p o box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,49,100,1
+3255511,005023  00014,005016  00008,mdm investments of memphis,mdm investments of memphis llc,p o box 751536 memphis tn 38175,p o box 751536 memphis tn 38175,95.33333333,100,1
+3356774,025047  00021,039048  00032,smith mary g,smith cleven jr mary b,1368 s parkway memphis tn 38106,1368 s parkway memphis tn 38106,73.66666667,100,1
+3365253,021068  00082,014026  00015,boyd billy heardia s,boyd billy w sr,po box 750492 memphis tn 38175,po box 750492 memphis tn 38175,76,100,1
+3387137,026008  00003,025035  00009C,lemoyneowen college community dev corp,new town center inc,915 e mclemore ave memphis tn 38106,915 e mclemore ave memphis tn 38106,43.33333333,100,1
+3388156,026008  00003,026014  00014,lemoyneowen college community dev corp,lemoyneowen college community dev,915 e mclemore ave memphis tn 38106,915 e mclemore ave memphis tn 38106,95.33333333,100,1
+3409195,029040  00016,049056  00021,jones dorothy p,jones dorothy,2758 carnes ave memphis tn 38114,2758 carnes ave memphis tn 38114,95.33333333,100,1
+3480648,026041  00031,026041  00035,coletta gerald s diane,coletta gerald s and diane d coletta,2338 hickory forest dr memphis tn 38119,2338 hickory forest dr memphis tn 38119,84,100,1
+3529181,039050  00025,039050  00026,knox albert s,knox odell,1120 pearce st memphis tn 38107,1120 pearce st memphis tn 38107,50.66666667,100,1
+3627046,034074  00001,070094  00008C,mission global ministries inc,mission global ministries,po box 820757 memphis tn 38182,po box 820757 memphis tn 38182,95.33333333,100,1
+3682264,022021  00061,021001  00028,gore floyd l and shirley j burress rs,burress leland shirley,1012 ayers st memphis tn 38107,1012 ayers st memphis tn 38107,66.33333333,100,1
+3751178,058169  00018,058085  00003,cordero carlos,ramirez jesus april,118 fields rd byhalia ms 38611,118 fields rd byhalia ms 38611,40,100,1
+3751179,058169  00018,058085  00046,cordero carlos,robles jesus r april,118 fields rd byhalia ms 38611,118 fields rd byhalia ms 38611,45,100,1
+3839316,050119  00017,050119  00012,hall dennis,hall dennis c katrinka a,3080 gill rd memphis tn 38109,3080 gill rd memphis tn 38109,75.33333333,100,1
+3877360,047052  00005,050023  00015,ware michael alta,ware michael and alta ware,5144 dycus cv memphis tn 38116,5144 dycus cv memphis tn 38116,86,100,1
+3877615,047052  00005,050023  00028,ware michael alta,ware mike,5144 dycus cv memphis tn 38116,5144 dycus cv memphis tn 38116,62,100,1
+3897260,031052  00016,069018  00038,howe allen a,lowe allen a,6302 star valley dr memphis tn 38134,6302 star valley dr memphis tn 38134,92,100,1
+4079910,043070  00049,045019  00041,dawning investments llc series c,dawning investments llc series d,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+4080213,043070  00049,073025  00012,dawning investments llc series c,dawning investments llc series a,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+4081290,043070  00049,058004  00004,dawning investments llc series c,dawning investments llc series b,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+4107541,071025  00117,084003  00006,irvin vernon l,irvin trena,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,64,100,1
+4107565,071025  00117,084003  00001,irvin vernon l,irvin trena m,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,67,100,1
+4107645,071025  00117,084010  00300,irvin vernon l,irvin vernon,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,94.66666667,100,1
+4130040,059026  00013,040038  00013,phildax properties,fitzgerald patricia,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,38,100,1
+4131084,059026  00013,077017  00050,phildax properties,stallings jeffery m and dianne s stalcup,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,26.66666667,100,1
+4131736,059026  00013,038019  00002,phildax properties,phildax prop,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,80,100,1
+4164779,075134  00024,027029  00045,harris leroy rose m,new greater life missionary baptist,914 western park dr memphis tn 38109,914 western park dr memphis tn 38109,35.66666667,100,1
+4175046,072022 E00063,072022 E00029,love tawldra,love tawldra l,po box 27667 memphis tn 38127,po box 27667 memphis tn 38127,94.66666667,100,1
+4291473,001123  00006C,022009  00025,mccracken xavier,lewis antonyo,772 woodlawn st memphis tn 38107,772 woodlawn st memphis tn 38107,25.66666667,100,1
+4304573,073058  00016,095204 F00019,shoffner catherine,shoffner catherine m,4636 lebanon pike hermitage tn 37076,4636 lebanon pike hermitage tn 37076,96.66666667,100,1
+4330022,074034 B00048,074034 E00011,moore aubrey e catherine,moore aubrey and catherine moore,1325 trail ridge ln cordova tn 38016,1325 trail ridge ln cordova tn 38016,88,100,1
+4588561,078041  00015,075111  00035,m e g capital management inc,meg capital management corp,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,80,100,1
+4589229,078041  00015,082024  00011,m e g capital management inc,meg captial management,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,77.33333333,100,1
+4621432,074037 H00148,025071  00023,brigham melvin,mcbee eric d,1000 n parkway memphis tn 38105,1000 n parkway memphis tn 38105,35.66666667,100,1
+4697676,034006  00024,075243  00026,jones gwendolyn,jones gwendolyn and prince jones,1496 s wellington st memphis tn 38106,1496 s wellington st memphis tn 38106,76,100,1
+4707257,075011  00019,013052  00035,drake clifton e lucy mae,drake clifton,8824 brunswick farms dr arlington tn 38002,8824 brunswick farms dr arlington tn 38002,80,100,1
+4746847,087007  00011,026042  00038,coletta vincent and jerry coletta and,coletta jerry s diane d,1063 s parkway memphis tn 38106,1063 s parkway memphis tn 38106,64,100,1
+4783646,026058  00001,076008  00011,randolph bernie f,randolph paul,661 s parkway memphis tn 38106,661 s parkway memphis tn 38106,65.33333333,100,1
+4822496,076143 A00069,043077  00001,hardaway terry,hardaway terry wanda f,447 brockwood cv memphis tn 38109,447 brockwood cv memphis tn 38109,85.33333333,100,1
+4844571,073042  00016,070093  00007,katrina properties llc,barnaclo tony and tammy r potter 12,po box 772007 memphis tn 38177,po box 772007 memphis tn 38177,37.66666667,100,1
+4845055,073042  00016,072024  00005,katrina properties llc,tab properties inc,po box 772007 memphis tn 38177,po box 772007 memphis tn 38177,72,100,1
+4950959,060079  00099,060079  00100,arnold willie,ivy eva d,1849 meadowhill memphis tn 38106,1849 meadowhill memphis tn 38106,24,100,1
+5090304,014035  00026,014035  00023,odessas foster care homes inc,st jude missionary baptist church trs,853 e trigg ave memphis tn 38106,853 e trigg ave memphis tn 38106,39,100,1
+5124389,041033  00010,041033  00011,bryant rosetta le and donald,bryant claude jr rosetta,2153 hunter ave memphis tn 38108,2153 hunter ave memphis tn 38108,65.66666667,100,1
+5205389,045019  00041,073025  00012,dawning investments llc series d,dawning investments llc series a,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+5206466,045019  00041,058004  00004,dawning investments llc series d,dawning investments llc series b,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+5371101,034030  00034,034025  00005,garlock katherine c,davis antonio,1507 ely st memphis tn 38106,1507 ely st memphis tn 38106,31,100,1
+5539201,017006 A00035,017006 A00106,butcher albert m jr,knight bettye j,1271 poplar ave memphis tn 38104,1271 poplar ave memphis tn 38104,45,100,1
+5581911,025010  00005,076143 A00082,sims ora lillie,sims ora lillie l,416 brockwood cv memphis tn 38109,416 brockwood cv memphis tn 38109,96,100,1
+5732540,052081  00008,040015  00016,thomas michael wanda m,thomas michael wanda,3604 merryville st memphis tn 38128,3604 merryville st memphis tn 38128,96.66666667,100,1
+5850006,075058  00066,075075  00005,marshall davey mary,marshall david mary l,3495 horn lake rd memphis tn 38109,3495 horn lake rd memphis tn 38109,85,100,1
+5865329,027027  00002,027027  00003,new greater life baptist church trs of,new greater life baptist church trs,701 pearce st memphis tn 38107,701 pearce st memphis tn 38107,97.33333333,100,1
+5865872,027027  00002,027029  00036,new greater life baptist church trs of,new greater life missionary bapt ch,701 pearce st memphis tn 38107,701 pearce st memphis tn 38107,68.66666667,100,1
+5931637,042035  00076,083001  00029,washington properties llc,parker roosevelt,2951 invergarry rd memphis tn 38128,2951 invergarry rd memphis tn 38128,34,100,1
+5932871,042035  00076,042034  00010,washington properties llc,parker ollie,2951 invergarry rd memphis tn 38128,2951 invergarry rd memphis tn 38128,38,100,1
+5942806,047025  00020,060039  00067,hammond james arnetta,hammond james and arnetta hammond,4975 waterstone cv olive branch ms 38654,4975 waterstone cv olive branch ms 38654,85.33333333,100,1
+5942840,047025  00020,059011  00095,hammond james arnetta,roberts david s,4975 waterstone cv olive branch ms 38654,4975 waterstone cv olive branch ms 38654,31.33333333,100,1
+6204563,082013  00023,082013  00021,walls leroy and robert l hale,walls leroy bobbie j and,1347 fields rd memphis tn 38109,1347 fields rd memphis tn 38109,71,100,1
+6204564,082013  00023,082013  00022,walls leroy and robert l hale,walls leroy and robert l hale rs,1347 fields rd memphis tn 38109,1347 fields rd memphis tn 38109,96.66666667,100,1
+6218104,040038  00013,077017  00050,fitzgerald patricia,stallings jeffery m and dianne s stalcup,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,29.33333333,100,1
+6218756,040038  00013,038019  00002,fitzgerald patricia,phildax prop,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,39,100,1
+6319994,048006  00019,048011  00021C,thomas mildred,carver mildred t,1288 kerr ave memphis tn 38106,1288 kerr ave memphis tn 38106,62.33333333,100,1
+6331216,075173  00006,076132  00030,hall vincent,hall vincent sr,1813 w holmes rd memphis tn 38109,1813 w holmes rd memphis tn 38109,92.66666667,100,1
+6333127,075173  00006,082071  00031,hall vincent,hall vincent r sr,1813 w holmes rd memphis tn 38109,1813 w holmes rd memphis tn 38109,88.66666667,100,1
+6353235,059071  00016,049044  00001,sims tanya d barry e sims,sims tanya d,3236 seminole rd memphis tn 38111,3236 seminole rd memphis tn 38111,76.66666667,100,1
+6476789,089025  00249,043092  00015,ferrell jerry w debora,ferrell jacob,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,59.33333333,100,1
+6477750,089025  00249,053107  00030,ferrell jerry w debora,jd ventures iii llc,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,30.66666667,100,1
+6478540,089025  00249,053103  00033,ferrell jerry w debora,ferrell jerry w,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,87.33333333,100,1
+6539259,037019  00025,037019  00026,grice william jr and mary l grice,wallace geraldine and thelma goodman and,2858 harvard ave memphis tn 38112,2858 harvard ave memphis tn 38112,50,100,1
+6581177,073025  00012,058004  00004,dawning investments llc series a,dawning investments llc series b,111 s highland st memphis tn 38111,111 s highland st memphis tn 38111,97,100,1
+6795928,059037 A00068,061007  00025,payne delsie l revocable living trust,payne delsie revocable living trust,9555 plantation lake rd collierville tn 38017,9555 plantation lake rd collierville tn 38017,98,100,1
+6795990,059037 A00068,071030  00011,payne delsie l revocable living trust,payne delsie revocable trust,9555 plantation lake rd collierville tn 38017,9555 plantation lake rd collierville tn 38017,90.66666667,100,1
+6841441,079067 A00063,076088  00043,johnson floyd b and lloyd g johnson rs,johnson lloyd g and floyd b johnson,6258 chase rd millington tn 38053,6258 chase rd millington tn 38053,93.66666667,100,1
+6938603,037038  00046,037038  00062,brown neater b,tanner mary,432 lipford st memphis tn 38112,432 lipford st memphis tn 38112,40,100,1
+6976564,053089  00004,062056  00084C,austin rosie l and eddie l burke rs,all star enterprises pso,1735 weiner rd memphis tn 38108,1735 weiner rd memphis tn 38108,35.33333333,100,1
+7061152,084003  00006,084003  00001,irvin trena,irvin trena m,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,94.66666667,100,1
+7061232,084003  00006,084010  00300,irvin trena,irvin vernon,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,70,100,1
+7089790,070088  00004,073035  00043,jackson larondett,christian funeral directors inc,po box 153 west memphis ar 72301,po box 153 west memphis ar 72301,33,100,1
+7170120,084003  00001,084010  00300,irvin trena m,irvin vernon,3044 peggy rd memphis tn 38128,3044 peggy rd memphis tn 38128,64,100,1
+7357062,005016  00005,079034  00011,taylor beverly,taylor reinhold beverly a,4581 charing cross st memphis tn 38116,4581 charing cross st memphis tn 38116,81.33333333,100,1
+7485926,059016  00218,047020  00031C,kumar jatin,kumar narenda r pramila,2240 deadrick ave memphis tn 38114,2240 deadrick ave memphis tn 38114,48.33333333,100,1
+7506520,075111  00035,082024  00011,meg capital management corp,meg captial management,815 n la brea ave inglewood ca 90302,815 n la brea ave inglewood ca 90302,86,100,1
+7752569,090029  00230M,090029  00371M,allentown mobile home community,sanchez ulbalbo,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,32,100,1
+7752846,090029  00230M,090029  00015M,allentown mobile home community,jeff mizell,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,27.33333333,100,1
+7753726,090029  00230M,090029  00452M,allentown mobile home community,lopez rosa,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,24,100,1
+8023903,066042  00029,016033  00003,wallace william j norma j,wallace william j jean d,496 park hill rd collierville tn 38017,496 park hill rd collierville tn 38017,83,100,1
+8024569,066042  00029,096400  00052,wallace william j norma j,fiveash marjorie l,496 park hill rd collierville tn 38017,496 park hill rd collierville tn 38017,26.66666667,100,1
+8046369,090071  00014,084007  00268,irvin vivian a nadean,irvin nadean,3733 hawkins mill rd memphis tn 38128,3733 hawkins mill rd memphis tn 38128,82,100,1
+8069798,083001  00029,042034  00010,parker roosevelt,parker ollie,2951 invergarry rd memphis tn 38128,2951 invergarry rd memphis tn 38128,58,100,1
+8177477,082010  00042,082010  00043,mcintoursh deborah,mcintoursh deborah terry,1340 w raines rd memphis tn 38109,1340 w raines rd memphis tn 38109,90.66666667,100,1
+8193488,079061 A00029,049085  00004,dunn mildred w and tyjuan w dunn and,dunn mildred w and tyjuan dunn and jarvi,1505 butterworth rd memphis tn 38116,1505 butterworth rd memphis tn 38116,92.66666667,100,1
+8324559,014032  00021,041044  00074,cross aubrey j jr and lawrence g cross,banks joe carrie,4891 farmwood dr memphis tn 38116,4891 farmwood dr memphis tn 38116,33.66666667,100,1
+8382792,026004  00001,026004  00031,alexander jerome vernesa j,alexander jerome,po box 1275 memphis tn 38101,po box 1275 memphis tn 38101,84,100,1
+8490893,073111  00005,073111  00044,smith willie sr,clark john s,1852 brierbrook rd germantown tn 38138,1852 brierbrook rd germantown tn 38138,22,100,1
+8559833,090037  00028,077007  00002C,burke sean w,waddell john 1 and tony fletcher,761 lonewood way collierville tn 38017,761 lonewood way collierville tn 38017,23,100,1
+8559860,090037  00028,055029  00002,burke sean w,jcb investments llc,761 lonewood way collierville tn 38017,761 lonewood way collierville tn 38017,34.33333333,100,1
+8586591,088001  00005,069011  00027,denovo holdings,denovo holdings llc,4297 stage rd memphis tn 38128,4297 stage rd memphis tn 38128,92,100,1
+8602069,073095  00001,034035  00006,o realty inc,global medias inc,po box 163 southaven ms 38671,po box 163 southaven ms 38671,50.33333333,100,1
+8613255,074107  00025,076076  00005,wth oakmont mortgage pool 217 lp,wth oakmont mortgage pool 217 l p,5118 park ave memphis tn 38117,5118 park ave memphis tn 38117,97,100,1
+8613682,074107  00025,088047  00041,wth oakmont mortgage pool 217 lp,wth oakmony mortgage pool 217 lp,5118 park ave memphis tn 38117,5118 park ave memphis tn 38117,97,100,1
+8650005,085021  00031,088012  00079,torpoco denesse,torpoco jo doris l,5209 stage rd memphis tn 38134,5209 stage rd memphis tn 38134,62,100,1
+8663151,050102  00013C,050102  00014,higdon paula o 12 and tab watters,higdon paula 12 and tab watters,561 s belvedere memphis tn 38104,561 s belvedere memphis tn 38104,98,100,1
+9040265,071034  00013,084016  00014,steff james n,steff james,907 lakeshore dr west palm beach fl 33403,907 lakeshore dr west palm beach fl 33403,94.66666667,100,1
+9048793,060158  00037,060158  00055,smith major elnora,smith major and will h quinn jr,1474 carlton rd memphis tn 38106,1474 carlton rd memphis tn 38106,64.66666667,100,1
+9054368,058075  00032,058075  00039,dover gordon l juana p,dover juana p,4058 rhodes memphis tn 38111,4058 rhodes memphis tn 38111,82.66666667,100,1
+9055392,058075  00032,058075  00033,dover gordon l juana p,dover juana,4058 rhodes memphis tn 38111,4058 rhodes memphis tn 38111,78,100,1
+9104788,026011  00019,026011  00020,thomas virginia and willie f grippon,grippon willie and cheryl powell,1125 greenwood st memphis tn 38106,1125 greenwood st memphis tn 38106,59.33333333,100,1
+9208029,076076  00005,088047  00041,wth oakmont mortgage pool 217 l p,wth oakmony mortgage pool 217 lp,5118 park ave memphis tn 38117,5118 park ave memphis tn 38117,93,100,1
+9404859,072022 E00028,083021  00017,love james jr tawldra l,scott w l,2979 birchfield dr memphis tn 38127,2979 birchfield dr memphis tn 38127,33.33333333,100,1
+9493610,053007  00006,054044  00002,coltharp russell n,coltharp piano world inc,4447 summer ave memphis tn 38122,4447 summer ave memphis tn 38122,62,100,1
+9536249,076132  00030,082071  00031,hall vincent sr,hall vincent r sr,1813 w holmes rd memphis tn 38109,1813 w holmes rd memphis tn 38109,96,100,1
+9558751,060010  00082,041022  00002,elmore ruby w,elmore ruby,2108 hornsby cv memphis tn 38116,2108 hornsby cv memphis tn 38116,94.66666667,100,1
+9652327,084005  00015,084005  00016,childress samuel eva l,childress samuel m eva l,3080 peggy rd memphis tn 38128,3080 peggy rd memphis tn 38128,97.33333333,100,1
+9693760,075092  00010,075053  00014,patton amos mildred,patton larry d,557 melton ave memphis tn 38109,557 melton ave memphis tn 38109,61,100,1
+9848325,074015  00033,073041 G00063,island home llc,island homes llc,13775 highway 57 moscow tn 38057,13775 highway 57 moscow tn 38057,97,100,1
+9870455,072042  00009,072077  00007,phillips barbera and co inc,phillips and barbera and co inc,9753 fox hill cir germantown tn 38139,9753 fox hill cir germantown tn 38139,95.33333333,100,1
+9903174,076117  00051,024047  00021,showers peter jr lolita r,showers peter jr and lolita r showers,465 bonnell ave memphis tn 38109,465 bonnell ave memphis tn 38109,87.33333333,100,1
+9963098,029079  00025,045076  00022,investment property depot llc,papas homes llc,734 pleasant hill rd ellicott city md 21043,734 pleasant hill rd ellicott city md 21043,42,100,1
+9975117,026068  00002C,041039  00025,almondthompson carol e,hearn lawrence estate of,6927 sugar maple cv memphis tn 38119,6927 sugar maple cv memphis tn 38119,33.33333333,100,1
+9975323,026068  00002C,081026 A00108,almondthompson carol e,thompson william a carol a,6927 sugar maple cv memphis tn 38119,6927 sugar maple cv memphis tn 38119,61,100,1
+10103671,076035  00330,076035  00291C,james sammie e estate of,amos eldora w estate of,213 elmer ave memphis tn 38109,213 elmer ave memphis tn 38109,61,100,1
+10297685,012051  00014,012051  00013,sydnor david e,strawar inc,721 florida st memphis tn 38103,721 florida st memphis tn 38103,32,100,1
+10507411,062011  00018,053008  00006,mireles rosa m l julio galan,mireles rosa l,3833 longfellow memphis tn 38108,3833 longfellow memphis tn 38108,78,100,1
+10547358,047010  00017,047086  00024,phillips barbara a,banzant erma m,2763 henley dr memphis tn 38114,2763 henley dr memphis tn 38114,38,100,1
+10674418,075150  00098C,035067  00004,health educational and housing facility,health educational housing facility,2600 thousand oaks blvd memphis tn 38118,2600 thousand oaks blvd memphis tn 38118,96.66666667,100,1
+10755638,070066  00019,074090 F00026,bates robert c,migliara lawrence,3254 winbrook dr memphis tn 38116,3254 winbrook dr memphis tn 38116,32,100,1
+10955384,077017  00050,038019  00002,stallings jeffery m and dianne s stalcup,phildax prop,po box 383287 germantown tn 38183,po box 383287 germantown tn 38183,19,100,1
+10992030,037038  00066,037027  00002,haney james c,haney james,654 franklin st memphis tn 38112,654 franklin st memphis tn 38112,94.66666667,100,1
+11050471,079050  00057,076134  00013,durham eddie and sylvia v carter,durham eddie,1381 farrow rd memphis tn 38116,1381 farrow rd memphis tn 38116,70,100,1
+11272393,082013  00021,082013  00022,walls leroy bobbie j and,walls leroy and robert l hale rs,1347 fields rd memphis tn 38109,1347 fields rd memphis tn 38109,68.33333333,100,1
+11286672,016033  00003,096400  00052,wallace william j jean d,fiveash marjorie l,496 park hill rd collierville tn 38017,496 park hill rd collierville tn 38017,29,100,1
+11300581,043092  00015,053107  00030,ferrell jacob,jd ventures iii llc,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,25.33333333,100,1
+11301371,043092  00015,053103  00033,ferrell jacob,ferrell jerry w,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,66,100,1
+11317843,058001  00018,059041  00016,hanson thomas e sons,hansom thomas e and sonspso,659 freeman st memphis tn 38122,659 freeman st memphis tn 38122,81,100,1
+11382470,013052  00063,025039  00037,glinsey glenda f,glinsey glenda,7240 butterfly dr memphis tn 38133,7240 butterfly dr memphis tn 38133,95.33333333,100,1
+11404110,040033  00008,021007  00021,lipsey bernard,bermar associatesi llc,3480 democrat rd memphis tn 38118,3480 democrat rd memphis tn 38118,35.33333333,100,1
+11504849,025035  00009C,026014  00014,new town center inc,lemoyneowen college community dev,915 e mclemore ave memphis tn 38106,915 e mclemore ave memphis tn 38106,42,100,1
+12462846,044008  00002,044008  00003,williams shirlene estate of and,kelly ruby estate of and shirlene,5543 yale rd bartlett tn 38134,5543 yale rd bartlett tn 38134,69.33333333,100,1
+12530540,051004  00023,024053  00007,seiferth clarence,seiferth clarence gladys m,5141 wheelis dr memphis tn 38117,5141 wheelis dr memphis tn 38117,86,100,1
+12534211,050023  00015,050023  00028,ware michael and alta ware,ware mike,5144 dycus cv memphis tn 38116,5144 dycus cv memphis tn 38116,51.33333333,100,1
+12665764,041039  00025,081026 A00108,hearn lawrence estate of,thompson william a carol a,6927 sugar maple cv memphis tn 38119,6927 sugar maple cv memphis tn 38119,33.66666667,100,1
+12680043,005016  00014,013052  00002,williams alvin,williams alvin b,po box 631 memphis tn 38101,po box 631 memphis tn 38101,95.33333333,100,1
+13351424,062012  00019,062012  00016,murphy doris h,murphy doris,1773 w lloyd cir memphis tn 38108,1773 w lloyd cir memphis tn 38108,94.66666667,100,1
+13465098,075145  00018,048018  00004,wade charles colene,wade charles l,1230 meadowlark ln memphis tn 38116,1230 meadowlark ln memphis tn 38116,87.33333333,100,1
+13578491,058048  00003,046019  00035,ray alvin,ray alvin carla h,3634 park ave memphis tn 38111,3634 park ave memphis tn 38111,79.33333333,100,1
+13587804,043023  00015,013046  00042,equity trust company custodian fbo,davis joe n tr,8830 wood mills cv cordova tn 38016,8830 wood mills cv cordova tn 38016,31.66666667,100,1
+13606348,078064  00005,077031  00155,moore william and delyntonues moore,moore william and selyntonues moore,3981 paula dr memphis tn 38116,3981 paula dr memphis tn 38116,86.66666667,100,1
+13823682,060053  00020,013031  00004,fletcher eddie sr alma,fletcher annie l,1025 latham st memphis tn 38106,1025 latham st memphis tn 38106,68,100,1
+13836799,083021  00069,073076  00015,lantern square apts llc,dogwood trace apts llc,4040 tulane new orleans la 70119,4040 tulane new orleans la 70119,56.33333333,100,1
+13845465,077007  00002C,055029  00002,waddell john 1 and tony fletcher,jcb investments llc,761 lonewood way collierville tn 38017,761 lonewood way collierville tn 38017,33.66666667,100,1
+13855538,058075  00039,058075  00033,dover juana p,dover juana,4058 rhodes memphis tn 38111,4058 rhodes memphis tn 38111,94.66666667,100,1
+13887186,071039  00047,071056  00027,taylor ladarius and donna taylor,taylor ladarius,po box 271507 memphis tn 38167,po box 271507 memphis tn 38167,76,100,1
+13887754,071039  00047,071056  00011,taylor ladarius and donna taylor,taylor ladarius donna,po box 271507 memphis tn 38167,po box 271507 memphis tn 38167,86,100,1
+14290360,028011  00022C,002012  00007,easy way no 3 inc,easy way 3 inc,4545 s mendenhall rd memphis tn 38141,4545 s mendenhall rd memphis tn 38141,93.33333333,100,1
+14290479,028011  00022C,077058  00029,easy way no 3 inc,easy way food stores inc,4545 s mendenhall rd memphis tn 38141,4545 s mendenhall rd memphis tn 38141,74.66666667,100,1
+14386731,007019  00002,007019  00003,taylor danny and laverne t murray and,taylor danny marie,3474 kirby meadows dr memphis tn 38115,3474 kirby meadows dr memphis tn 38115,65.33333333,100,1
+14603871,049024  00022,050006  00021,jones shirley h,jones shirley h 36 and eddie c hill,5050 jeff dr memphis tn 38109,5050 jeff dr memphis tn 38109,73.33333333,100,1
+14626810,021073  00021,069044  00012,genius market llc,market genius llc,960 w san marcos blvd san marcos ca 92078,960 w san marcos blvd san marcos ca 92078,86.33333333,100,1
+14671502,050041  00030,058037  00013,davis annie and robert davis jr,miller christopher d and robert davis,1124 parkrose rd memphis tn 38109,1124 parkrose rd memphis tn 38109,69.33333333,100,1
+14758524,096400  00040,043001  00001Z,owens n l estate,illinois central railroad,general delivery memphis tn 38101,general delivery memphis tn 38101,37.33333333,100,1
+14984485,035106  00010,035087  00050,washington helen,washington helen c w,131 wind breeze rd memphis tn 38109,131 wind breeze rd memphis tn 38109,92.66666667,100,1
+15012083,042024  00006,021039  00008,parson randy,tennessee state of,3540 summer ave memphis tn 38122,3540 summer ave memphis tn 38122,24.66666667,100,1
+15039890,062056  00172,062056  00173,ghosheh riyad r,ghosheh riad,3795 jackson ave memphis tn 38108,3795 jackson ave memphis tn 38108,89,100,1
+15188805,002012  00007,077058  00029,easy way 3 inc,easy way food stores inc,4545 s mendenhall rd memphis tn 38141,4545 s mendenhall rd memphis tn 38141,74.33333333,100,1
+15306951,090029  00371M,090029  00015M,sanchez ulbalbo,jeff mizell,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,31,100,1
+15307831,090029  00371M,090029  00452M,sanchez ulbalbo,lopez rosa,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,32,100,1
+15661428,053107  00030,053103  00033,jd ventures iii llc,ferrell jerry w,9378 zachariah cv memphis tn 38133,9378 zachariah cv memphis tn 38133,29,100,1
+15996993,027027  00003,027029  00036,new greater life baptist church trs,new greater life missionary bapt ch,701 pearce st memphis tn 38107,701 pearce st memphis tn 38107,70.66666667,100,1
+16241969,075017  00057,059011  00012,hill darius,hill darius e,789 eddins rd coldwater ms 38618,789 eddins rd coldwater ms 38618,94.66666667,100,1
+16300980,070093  00007,072024  00005,barnaclo tony and tammy r potter 12,tab properties inc,po box 772007 memphis tn 38177,po box 772007 memphis tn 38177,35.33333333,100,1
+16409409,058085  00003,058085  00046,ramirez jesus april,robles jesus r april,118 fields rd byhalia ms 38611,118 fields rd byhalia ms 38611,75.33333333,100,1
+16428232,044009 A00022,040030  00011,thirty one eightly seven fisher avenue,one one two three n watkins street trust,2071 waskom dr memphis tn 38116,2071 waskom dr memphis tn 38116,42.66666667,100,1
+16564580,090029  00015M,090029  00452M,jeff mizell,lopez rosa,4912 raleigh millington rd memphis tn 38128,4912 raleigh millington rd memphis tn 38128,19,100,1
+16659140,093700  00172,093700  00286,wardlaw william t jr,wardlaw william t jr naomi y,278 commissary dr olive branch ms 38654,278 commissary dr olive branch ms 38654,88.66666667,100,1
+16922347,079067 A00033,060039  00082,gavin ozeil r sophia m,gavin sophia m ozeil r,p o box 3945 memphis tn 38173,p o box 3945 memphis tn 38173,88,100,1
+17077232,017010  00018,017015  00015,bryant cleophus lois,bryant lois cleophus,3678 twinmont cv memphis tn 38128,3678 twinmont cv memphis tn 38128,91.66666667,100,1
+17444545,075026  00008,075130  00013,brooks mamie g,peete larry e jr and adarryl d brooks,547 nonconnah rd memphis tn 38109,547 nonconnah rd memphis tn 38109,41,100,1
+17575708,060039  00067,059011  00095,hammond james and arnetta hammond,roberts david s,4975 waterstone cv olive branch ms 38654,4975 waterstone cv olive branch ms 38654,34,100,1
+17998276,071056  00027,071056  00011,taylor ladarius,taylor ladarius donna,po box 271507 memphis tn 38167,po box 271507 memphis tn 38167,88.66666667,100,1
+18029783,075170  00018,075171  00149,chism rhonda,davidson rhonda c joe l,4801 s 3rd st memphis tn 38109,4801 s 3rd st memphis tn 38109,58.33333333,100,1
+18147726,024059  00008,026043  00021C,tradewinds investments llc,wade leo g,10196 misty hill dr collierville tn 38017,10196 misty hill dr collierville tn 38017,33,100,1
+18234032,027018  00024,027018  00025,houston nigel and chandra houston,houston curtis and mary l reid and,697 n dunlap st memphis tn 38107,697 n dunlap st memphis tn 38107,58.66666667,100,1
+18329044,061007  00025,071030  00011,payne delsie revocable living trust,payne delsie revocable trust,9555 plantation lake rd collierville tn 38017,9555 plantation lake rd collierville tn 38017,92.66666667,100,1
+18773712,038016  00018,038017  00017,roby mahalia,roby tiffany,3179 birchton glade cv arlington tn 38002,3179 birchton glade cv arlington tn 38002,49.66666667,100,1
+18147894,024059  00008,049052  00028,tradewinds investments llc,wade mymasue,10196 misty hill dr collierville tn 38017,1196 misty hill dr collierville tn 38017,32,99,1
+19345662,026043  00021C,049052  00028,wade leo g,wade mymasue,10196 misty hill dr collierville tn 38017,1196 misty hill dr collierville tn 38017,55.66666667,99,1
+436830,050002  00004,078037 B00014C,riverviewkansas community development,makki babak,3174 elvis presley blvd memphis tn 38116,3674 elvis presley blvd memphis tn 38116,13,98,0
+551417,059041  00018,059016  00198,hansom thomas e and sons pso,hansom thomas e sons,659 freeman st memphis tn 38122,659a freeman st memphis tn 38122,88.66666667,98,1
+1567603,040049  00015,040050  00004,mt zion baptist church trs,mt zion baptist church,1280 n stonewall st memphis tn 38108,1280 stonewall st memphis tn 38108,94.66666667,98,1
+2407050,059041  00009,059016  00198,hansom thomas e sons pso,hansom thomas e sons,659 freeman st memphis tn 38122,659a freeman st memphis tn 38122,94,98,1
+3116400,027027  00021,027018  00024,houston chandra,houston nigel and chandra houston,697 dunlap st memphis tn 38107,697 n dunlap st memphis tn 38107,75.33333333,98,1
+3116748,027027  00021,027018  00025,houston chandra,houston curtis and mary l reid and,697 dunlap st memphis tn 38107,697 n dunlap st memphis tn 38107,56.66666667,98,1
+3214504,060010  00068,060010  00067,cagle dewayne a,cagle dwayne a,860 n ball rd memphis tn 38106,860 ball rd memphis tn 38106,97,98,1
+3944230,050026  00002,050026  00007,kerr henry e dorothy a,sykes colatta,39 w mallory ave memphis tn 38109,9 w mallory ave memphis tn 38109,34,98,0
+5412266,002025  00005,031040  00013,brass door llc,marche ira marcie bowden,152 madison ave memphis tn 38104,1652 madison ave memphis tn 38104,33.33333333,98,0
+5997354,076085  00006,075018  00116,patterson charles e freddie m,dailey thomas and hattie m dailey,45 w shelby dr memphis tn 38109,5 w shelby dr memphis tn 38109,43.66666667,98,0
+7135239,049080  00002,071025  00002,nelson carrie b,turnkey memphis properties llc,po box 262 memphis tn 38101,po box 22 memphis tn 38101,37.33333333,98,0
+10193682,025062  00016,025059  00009,johnson rickey,harley gayle jr,1294 willie mitchell blvd memphis tn 38106,1289 willie mitchell blvd memphis tn 38106,28,98,0
+10675136,075150  00098C,096900  00581,health educational and housing facility,twelve fifty pp llc and twelve fifty pp,2600 thousand oaks blvd memphis tn 38118,2650 thousand oaks blvd memphis tn 38118,36.33333333,98,0
+11072774,059016  00198,058001  00018,hansom thomas e sons,hanson thomas e sons,659a freeman st memphis tn 38122,659 freeman st memphis tn 38122,95,98,1
+11072845,059016  00198,059041  00016,hansom thomas e sons,hansom thomas e and sonspso,659a freeman st memphis tn 38122,659 freeman st memphis tn 38122,85.33333333,98,1
+15402690,035067  00004,096900  00581,health educational housing facility,twelve fifty pp llc and twelve fifty pp,2600 thousand oaks blvd memphis tn 38118,2650 thousand oaks blvd memphis tn 38118,33.66666667,98,0
+954318,044026  00004,044020  00041,briggs charles and joyce briggs,briggs ervin joyce and,4905 tchulahoma rd memphis tn 38118,4905 tchulahoma memphis tn 38118,72,97.33333333,1
+1393775,052087  00018,052009  00024,oncall property llc,arie corcos,5294 cottonwood memphis tn 38118,5294 cottonwood rd memphis tn 38118,29,97.33333333,1
+1503368,035083  00003,005016  00005,taylor beverley and reinhold taylor,taylor beverly,4581 charing cross memphis tn 38116,4581 charing cross st memphis tn 38116,60.33333333,97.33333333,1
+1504332,035083  00003,079034  00011,taylor beverley and reinhold taylor,taylor reinhold beverly a,4581 charing cross memphis tn 38116,4581 charing cross st memphis tn 38116,78,97.33333333,1
+5243462,041041  00002,079148 A00054,garrett lametrice d,garrett lametrice,9011 pembroke ellis memphis tn 38133,9011 pembroke ellis rd memphis tn 38133,96,97.33333333,1
+7029439,041052  00031,090004  00008,woods grey llc,grey woods llc,4777 winchester rd memphis tn 38118,4777 winchester memphis tn 38118,88,97.33333333,1
+8400653,082010  00083,082010  00084,jones gifton h,jones gifton gracie,4585 double tree memphis tn 38109,4585 double tree rd memphis tn 38109,83.33333333,97.33333333,1
+77750,029033  00020,028005  00016,richardson pearl,berressem elsie n,1050 s cox st memphis tn 38104,15 s cox st memphis tn 38104,32,97,0
+131930,034018  00023,034017  00010,williams luretha 12 and george f,bonner brenda a and jomo k bonner,1628 cameron st memphis tn 38106,1629 cameron st memphis tn 38106,41.66666667,97,0
+268167,039032  00010,052058  00018,smith jasper and kenny r smith and,smith rochelle d and patricia a smith,2546 houck ave memphis tn 38108,2554 houck ave memphis tn 38108,57,97,1
+333330,042049  00023,090027  00031,boyd derrick dewayne and latosha,fuentes desirea,3884 white owl sq memphis tn 38128,3888 white owl sq memphis tn 38128,32.66666667,97,1
+361633,037030  00010,037031  00026,watkins rosie l,ewing howard jr,299 red oak st memphis tn 38112,292 red oak st memphis tn 38112,31.33333333,97,0
+392149,053047  00016,031035  00001,docker charlie,scott obed e maggie l,962 oakview st memphis tn 38114,976 oakview st memphis tn 38114,34,97,0
+457563,041029  00075,060151  00010,james deborah and rubye j hilliard rs,johnson otis j and adrian k taylor rs,1045 sheridan st memphis tn 38107,1048 sheridan st memphis tn 38107,47,97,0
+474862,035030  00014,035031  00005,armour dexter and belva barnes armour,armour belva,1858 farrington st memphis tn 38109,1855 farrington st memphis tn 38109,66,97,1
+540823,072022 E00061,072022 E00063,love james,love tawldra,po box 27667 memphis tn 38167,po box 27667 memphis tn 38127,49.33333333,97,1
+540909,072022 E00061,072022 E00029,love james,love tawldra l,po box 27667 memphis tn 38167,po box 27667 memphis tn 38127,49.66666667,97,1
+555104,060059  00051,060059  00056,irby lee h ruthie m,smith wilbert sr helen,1530 birdsong ave memphis tn 38106,1502 birdsong ave memphis tn 38106,42.33333333,97,0
+573523,027016  00011,027015  00019,wilks andre maxine,maclin mildred k,712 n manassas st memphis tn 38107,782 n manassas st memphis tn 38107,43,97,0
+597178,029099  00020,029099  00015,conard quovadice,cosey lori,758 marianna st memphis tn 38114,782 marianna st memphis tn 38114,38,97,0
+662983,023016  00042C,060079  00105,arnold willie j,vaught melvin o sandra j,1849 meadowhill memphis tn 38106,1819 meadowhill memphis tn 38106,27.66666667,97,0
+712502,059007  00030,059008  00010,massie shirley,spencer rosebud h,1076 bradley st memphis tn 38114,1057 bradley st memphis tn 38114,32,97,0
+715555,059007  00030,061021  00004,massie shirley,burton phillip j blanch s,1076 bradley st memphis tn 38114,1026 bradley st memphis tn 38114,24.33333333,97,0
+751342,028032  00004C,028031  00006,g g properties l p,memphis heritage incorporated,2268 madison ave memphis tn 38104,2282 madison ave memphis tn 38104,34.66666667,97,0
+785082,047026  00002,047020  00097,nunnally james ida l,walker george r,2301 arlington ave memphis tn 38114,2231 arlington ave memphis tn 38114,29,97,0
+795981,026012  00031,026011  00019,berry joseph le and landa alexander,thomas virginia and willie f grippon,1121 greenwood st memphis tn 38106,1125 greenwood st memphis tn 38106,39.33333333,97,0
+797541,026012  00031,026011  00020,berry joseph le and landa alexander,grippon willie and cheryl powell,1121 greenwood st memphis tn 38106,1125 greenwood st memphis tn 38106,42,97,0
+801187,021057  00032Z,021057  00037,jordan larry v phyllis,stewart barbara a and katie s johnson,1200 firestone ave memphis tn 38107,1230 firestone ave memphis tn 38107,35,97,0
+859625,035077  00006,075064  00011,swilling james a,craigen james c bernice e,3215 meadowbrook rd memphis tn 38109,3245 meadowbrook rd memphis tn 38109,42,97,0
+947555,029093  00015,029093  00014,stirgus adelle w,holmes patty w and clarence e weaver jr,775 dallas st memphis tn 38114,771 dallas st memphis tn 38114,34,97,0
+988065,058056  00047C,073040  00023,ascension tower llc,stonehenge park apartments llc,4040 tulane ave new orleans la 70119,4040 tulane ave new orleans la 70113,46.33333333,97,1
+989460,040001  00067,040001  00051,mackey mary,reed anthony a,1349 decatur st memphis tn 38107,1419 decatur st memphis tn 38107,32,97,0
+1007437,041042  00029,041042  00039,dumas clifford,mcdaniel richard jr,1328 austin st memphis tn 38108,1368 austin st memphis tn 38108,32,97,0
+1041687,045078  00034,031028  00006,davis bobby a and billy h davis,taylor ron beverley a,3170 park ave memphis tn 38111,3810 park ave memphis tn 38111,37.33333333,97,0
+1044420,058095  00031,059026  00013,phildax properties pso,phildax properties,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,93.33333333,97,1
+1044880,058095  00031,040038  00013,phildax properties pso,fitzgerald patricia,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,34,97,1
+1045924,058095  00031,077017  00050,phildax properties pso,stallings jeffery m and dianne s stalcup,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,29,97,1
+1046576,058095  00031,038019  00002,phildax properties pso,phildax prop,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,72,97,1
+1087743,043009  00016,043009  00015,echols frances m and,beason alberta e,1471 lake grove st memphis tn 38108,1475 lake grove st memphis tn 38108,37,97,0
+1124475,049054  00010,049054  00011,chambers shawn,mcleod fragie l jr,611 e mckellar ave memphis tn 38106,615 e mckellar ave memphis tn 38106,25,97,1
+1207583,031138  00016,021068  00082,boyd heardia,boyd billy heardia s,po box 750492 memphis tn 38115,po box 750492 memphis tn 38175,83.33333333,97,1
+1210178,031138  00016,014026  00015,boyd heardia,boyd billy w sr,po box 750492 memphis tn 38115,po box 750492 memphis tn 38175,46,97,1
+1246110,047047  00013,047048  00017,hassell andrew l dorothy m,hughes lynzell martha,2629 larose ave memphis tn 38114,2632 larose ave memphis tn 38114,37,97,0
+1246752,047047  00013,047048  00018,hassell andrew l dorothy m,thompson ella m,2629 larose ave memphis tn 38114,2626 larose ave memphis tn 38114,34,97,0
+1279150,048040  00011,048040  00013,jones reginald,matthews tina d,1868 glory cir memphis tn 38114,1876 glory cir memphis tn 38114,43.33333333,97,0
+1366270,058023  00025,058022  00007,hargett martha p le and jeffrey l,chatman quin,3650 mcduff ave memphis tn 38111,3655 mcduff ave memphis tn 38111,28.33333333,97,0
+1424979,025067  00011,025061  00028,houston nathaniel sr and lana j houston,zeitlin donald m family realty co,748 s parkway memphis tn 38106,574 s parkway memphis tn 38106,33.66666667,97,0
+1446134,045021  00042,045019  00036,prater otis w,prater odis barbara,348 hodges st memphis tn 38111,354 hodges st memphis tn 38111,65,97,0
+1493239,036024  00002,041041  00020,askew lena m,gaines lena a,933 maury st memphis tn 38107,933 maura st memphis tn 38107,58.66666667,97,1
+1612859,076123  00020,076123  00014,cole sherman e,patterson jacqueline m,4946 stacey rd memphis tn 38109,4996 stacey rd memphis tn 38109,38.66666667,97,0
+1648993,077067  00013,077066  00047,williams joe ludy,williford betty j,707 whitehaven ln memphis tn 38109,750 whitehaven ln memphis tn 38109,47,97,0
+1754356,047009  00008C,047051  00019,parhams fronie,segrest etta j,2080 lowell ave memphis tn 38114,2400 lowell ave memphis tn 38114,29,97,0
+1772735,027034  00059,027029  00035,miller adrew,miller geneva m and wilbert miller rs,948 pearce st memphis tn 38107,694 pearce st memphis tn 38107,51,97,0
+1824480,041055  00034,041052  00088,young josephine,mathews andre and marte daniels,2188 stovall ave memphis tn 38108,2108 stovall ave memphis tn 38108,18.66666667,97,0
+1825555,041055  00034,041052  00125,young josephine,matthews andre,2188 stovall ave memphis tn 38108,2108 stovall ave memphis tn 38108,21,97,0
+1840209,034063  00042,034063  00010,morris vanessa c,sutton jacqueline d,860 shamrock aly memphis tn 38106,870 shamrock aly memphis tn 38106,30.66666667,97,0
+1845754,026016  00008,042036  00029,gant leroy and bobbie j m gant,suero thelma l,1077 cummings st memphis tn 38106,1097 cummings st memphis tn 38106,30,97,0
+1847319,049076  00005,049077  00002,ruffin elmarie,mcgee catherine and michael t lee,781 alice ave memphis tn 38106,821 alice ave memphis tn 38106,27.33333333,97,0
+1918255,024052  00027,075162  00030,sanders clyde earline,leake melvena c,4637 honeysuckle ln memphis tn 38109,4632 honeysuckle ln memphis tn 38109,40.33333333,97,0
+1932413,031074  00036,031074  00034,gordon emory k jr and george n gordon,anderson phyllis j,1810 foster ave memphis tn 38114,1820 foster ave memphis tn 38114,34.33333333,97,0
+1943301,076017  00003,076017  00004,clement james r wilma d,gailes narcissus,543 bonita dr memphis tn 38109,553 bonita dr memphis tn 38109,31,97,0
+1946061,076017  00003,076022  00001,clement james r wilma d,west robert l,543 bonita dr memphis tn 38109,435 bonita dr memphis tn 38109,35,97,0
+1957176,047054  00021,047052  00015,hill willie m elma d,norphlet thomas j diane,2452 arlington ave memphis tn 38114,2425 arlington ave memphis tn 38114,34.33333333,97,1
+2005984,042030  00007,042032  00021,atkins rosie,gray sylvester earline,2238 marble ave memphis tn 38108,2283 marble ave memphis tn 38108,39,97,0
+2054200,045040  00018,033011  00001,summers blake,summers jonathan b,2791 central ave memphis tn 38112,2791 central ave memphis tn 38111,64.33333333,97,1
+2058142,051007  00018,040003  00017,community project church of god in chris,greater community projects inc,924 n dunlap st memphis tn 38107,942 n dunlap st memphis tn 38107,63,97,1
+2076837,044032  00009,033023  00001,healy ross a,dimarco helen j estate of,3253 princeton ave memphis tn 38112,2523 princeton ave memphis tn 38112,36,97,0
+2138787,035025  00016,075127  00013,ghoston erma estate of,lott fred mary,4236 warbonnet st memphis tn 38109,4230 warbonnet st memphis tn 38109,33,97,0
+2141093,035025  00016,075130  00010,ghoston erma estate of,jones cornelius estate of,4236 warbonnet st memphis tn 38109,4237 warbonnet st memphis tn 38109,61.33333333,97,0
+2191855,052058  00016,052058  00018,smith jasper and kenney r smith and,smith rochelle d and patricia a smith,2546 houck ave memphis tn 38108,2554 houck ave memphis tn 38108,58,97,1
+2198766,052058  00018,039032  00031,smith rochelle d and patricia a smith,smith christopher and odessa holmes and,2554 houck ave memphis tn 38108,2546 houck ave memphis tn 38108,51.33333333,97,1
+2212348,043023  00270,043023  00273,swearengen jamita e and jane e,swearengen jamita e and jana e,1631 sunset st memphis tn 38108,1623 sunset st memphis tn 38108,96.66666667,97,1
+2344641,013046  00030,013047  00014,carter billy w charlotte,hampton shondra,392 gaston ave memphis tn 38126,399 gaston ave memphis tn 38126,26,97,0
+2399848,048022  00007,048019  00033,spratlen tony t,clark john f,1357 south ave memphis tn 38106,1372 south ave memphis tn 38106,37,97,0
+2450549,021087  00009,021108  00023,pollard verlia m c and judge pollard and,alexander ira,845 n claybrook st memphis tn 38107,814 n claybrook st memphis tn 38107,35.66666667,97,0
+2479484,075252  00124,075246  00001,earnest albert jr adelaide,sherrod robert l sr hortense,331 washburn dr memphis tn 38109,341 washburn dr memphis tn 38109,46.66666667,97,0
+2502580,026051  00002,026051  00003C,hardaway shereka,johnson halvern h jr,1335 s parkway memphis tn 38106,1345 s parkway memphis tn 38106,33,97,0
+2511845,011031  00015,043042  00001,pryor g j,reed lorzee and melrose r morrell,2410 chelsea ave memphis tn 38108,3241 chelsea ave memphis tn 38108,24,97,0
+2553675,042015  00005,042016  00016,garrett robert m virginia a,degraffenreaid emma e,1443 harrison st memphis tn 38108,1444 harrison st memphis tn 38108,34.66666667,97,0
+2637088,060079  00105,060079  00099,vaught melvin o sandra j,arnold willie,1819 meadowhill memphis tn 38106,1849 meadowhill memphis tn 38106,23.66666667,97,0
+2637089,060079  00105,060079  00100,vaught melvin o sandra j,ivy eva d,1819 meadowhill memphis tn 38106,1849 meadowhill memphis tn 38106,36,97,0
+2671987,075085  00007,075085  00010,clark sylvester s minerva,owens lawantha d and doris owens and,3501 ashford rd memphis tn 38109,3517 ashford rd memphis tn 38109,30,97,0
+2695843,021017  00032,021018  00002,ray roy,moore vicky d,954 n parkway memphis tn 38105,995 n parkway memphis tn 38105,30,97,0
+2696064,021017  00032,021121  00005,ray roy,scott katherine j and sherron d harris,954 n parkway memphis tn 38105,935 n parkway memphis tn 38105,22,97,0
+2697448,021017  00032,007016  00022,ray roy,robinson vanessa b,954 n parkway memphis tn 38105,915 n parkway memphis tn 38105,24,97,0
+2713962,013065  00027,025056  00037,caston r t dessie l,christ missionary baptist church,440 s parkway memphis tn 38106,494 s parkway memphis tn 38106,33.66666667,97,0
+2716061,013065  00027,026002  00019,caston r t dessie l,hunter tony,440 s parkway memphis tn 38106,446 s parkway memphis tn 38106,31,97,0
+2731878,059015  00007,059015  00012,stewart robert l brenda,johnson howard t fronia m,1149 semmes st memphis tn 38111,1193 semmes st memphis tn 38111,39.33333333,97,0
+2732188,059015  00007,059058  00020,stewart robert l brenda,sykes o t and clarence sykes,1149 semmes st memphis tn 38111,1174 semmes st memphis tn 38111,42,97,1
+2761786,031032  00004,031032  00006,lynch willie l,wright sandra j 34 and arleatta,1577 walker ave memphis tn 38114,1587 walker ave memphis tn 38114,24,97,0
+2791370,041055  00028,041052  00096,herndon beatrice,wolfe lillian,2212 stovall ave memphis tn 38108,2123 stovall ave memphis tn 38108,21,97,1
+2824810,047061  00056,059016  00098,meekins richard d,taylor derek zian,2390 lamar ave memphis tn 38114,2904 lamar ave memphis tn 38114,43,97,0
+2854675,042032  00019,042032  00003,grandberry pebble a,galloway arthur estate,2279 marble ave memphis tn 38108,2219 marble ave memphis tn 38108,30.66666667,97,0
+2858292,042032  00019,060046  00029,grandberry pebble a,scales robert d,2279 marble ave memphis tn 38108,2179 marble ave memphis tn 38108,43,97,0
+2937362,041032  00026,075080  00004,sims ora,shaw laketa and sukeana shaw,416 brockwood cv memphis tn 38109,441 brockwood cv memphis tn 38109,23.33333333,97,0
+2983693,042016  00009,043042  00001,lewis gloria p,reed lorzee and melrose r morrell,2410 chelsea ave memphis tn 38108,3241 chelsea ave memphis tn 38108,30,97,0
+3022350,060010  00062,060010  00068,cook mildred l and vanessa s burns rs,cagle dewayne a,880 n ball rd memphis tn 38106,860 n ball rd memphis tn 38106,37,97,0
+3041636,048032  00020,026055  00010,williams clarence and antonio,harris samson mildred,1494 rayner st memphis tn 38106,1394 rayner st memphis tn 38106,38.66666667,97,0
+3043780,048032  00020,048035  00016,williams clarence and antonio,joy climella,1494 rayner st memphis tn 38106,1414 rayner st memphis tn 38106,27.33333333,97,0
+3142565,029051  00011,059084  00020,porter pearlie a,porter pearlie,1156 s greer st memphis tn 38111,1150 s greer st memphis tn 38111,95.33333333,97,1
+3146971,041047  00016,075254  00001,booker ronald r,shiloh missionary baptist church,3151 range line rd memphis tn 38127,3121 range line rd memphis tn 38127,32.66666667,97,0
+3164063,060151  00005,031085  00018,baker ruth,powell charles,1770 wendy dr memphis tn 38114,1776 wendy dr memphis tn 38114,25,97,1
+3226717,073052  00030,059026  00013,mallard properties llc,phildax properties,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,67,97,1
+3227177,073052  00030,040038  00013,mallard properties llc,fitzgerald patricia,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,35.66666667,97,1
+3228221,073052  00030,077017  00050,mallard properties llc,stallings jeffery m and dianne s stalcup,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,30.33333333,97,1
+3228873,073052  00030,038019  00002,mallard properties llc,phildax prop,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,41,97,1
+3245006,049084  00023,047020  00019,reed geraldine,washington shaffer,808 alida ave memphis tn 38106,830 alida ave memphis tn 38106,29,97,0
+3263187,036068  00012,036068  00013,larue gerald h melanie s,scott roberta l,1915 mignon ave memphis tn 38107,1921 mignon ave memphis tn 38107,34.33333333,97,0
+3279801,043023  00012,027009  00008,seymour lit georgia m,harding gloria,1039 n manassas st memphis tn 38107,1035 n manassas st memphis tn 38107,42,97,0
+3284472,047046  00025,011016  00035C,cain inez b,warren hilda g,2530 lowell ave memphis tn 38114,2503 lowell ave memphis tn 38114,34.66666667,97,0
+3296936,047051  00017,047051  00019,wright sammy e lisa,segrest etta j,2410 lowell ave memphis tn 38114,2400 lowell ave memphis tn 38114,34,97,0
+3449431,049077  00002,049080  00025,mcgee catherine and michael t lee,miller patricia a,821 alice ave memphis tn 38106,826 alice ave memphis tn 38106,37.33333333,97,0
+3456095,043021  00005,043023  00323,travelers rest missionary baptist church,thomas clyde w merrilyn j,1641 sydney st memphis tn 38108,1615 sydney st memphis tn 38108,29,97,0
+3596431,025072  00041,025071  00006,harris forestine a,johnson betty j,758 roanoke ave memphis tn 38106,751 roanoke ave memphis tn 38106,32,97,0
+3795867,025056  00037,026002  00019,christ missionary baptist church,hunter tony,494 s parkway memphis tn 38106,446 s parkway memphis tn 38106,31.33333333,97,0
+3797034,025056  00037,034006  00004,christ missionary baptist church,wooldridge paula r and rose m w mcneil,494 s parkway memphis tn 38106,491 s parkway memphis tn 38106,30.33333333,97,0
+3810449,031022  00020,031020  00003,brown stairvester emma j,galloway randy c,1637 kendale ave memphis tn 38106,1673 kendale ave memphis tn 38106,26.66666667,97,0
+3827586,050016  00029,050016  00003,hamler robert l,riverview christian church,1992 riverside blvd memphis tn 38109,1982 riverside blvd memphis tn 38109,32.33333333,97,0
+3850587,049015  00002,049016  00006,smith elnora,borders alma r and alton dixon,441 fernwood ave memphis tn 38106,417 fernwood ave memphis tn 38106,29,97,0
+3850692,049015  00002,049008  00021,smith elnora,williams jennie b and,441 fernwood ave memphis tn 38106,404 fernwood ave memphis tn 38106,26,97,0
+3871209,042037  00053,042036  00066,starks eddie l,jones almedia,2343 dexter ave memphis tn 38108,2344 dexter ave memphis tn 38108,37,97,0
+3884550,031085  00079,031087  00031,spencer lottie n,townsend gwyneth s c,1949 cloverdale dr memphis tn 38114,1994 cloverdale dr memphis tn 38114,33,97,1
+3925591,021018  00002,021121  00005,moore vicky d,scott katherine j and sherron d harris,995 n parkway memphis tn 38105,935 n parkway memphis tn 38105,24,97,0
+3926975,021018  00002,007016  00022,moore vicky d,robinson vanessa b,995 n parkway memphis tn 38105,915 n parkway memphis tn 38105,32,97,0
+4002517,061022  00007,061022  00009,scales jimmie jr bobbie a,alexander louis sallie,2567 park ave memphis tn 38114,2577 park ave memphis tn 38114,39.66666667,97,0
+4016604,020047  00029,020046  00029,beck desmond b,cline jack r helen b,238 n avalon st memphis tn 38112,237 n avalon st memphis tn 38112,39,97,0
+4063079,084007  00266,084007  00265,shoemake j c estate of,scott daniel,3287 margaretta rd memphis tn 38128,3273 margaretta rd memphis tn 38128,29,97,0
+4096893,042032  00003,060046  00029,galloway arthur estate,scales robert d,2219 marble ave memphis tn 38108,2179 marble ave memphis tn 38108,32,97,0
+4120683,020082  00023,021121  00022,roberson ida m,taylor willie l,1064 forrest ave memphis tn 38105,1004 forrest ave memphis tn 38105,25.33333333,97,0
+4131165,059026  00013,082001  00098,phildax properties,landshof robert,po box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,48,97,1
+4263400,040027  00023,040016  00003,rhodes otha r ernestine,wade felecia,1289 capital ave memphis tn 38107,1128 capital ave memphis tn 38107,38,97,0
+4268604,052050  00004,052050  00003,sager james e and charlene d edwards,briggs makesha,2589 jackson ave memphis tn 38108,2583 jackson ave memphis tn 38108,28,97,0
+4320177,041033  00030,041033  00034,dunlap rickie l,harris louistine,2158 n hubert cir memphis tn 38108,2138 n hubert cir memphis tn 38108,36.66666667,97,0
+4325057,041033  00034,041033  00035,harris louistine,allen bessie m,2138 n hubert cir memphis tn 38108,2134 n hubert cir memphis tn 38108,33,97,0
+4365729,070007  00011,070048  00020,ivy henry,mcghee melvin l yvonne,1448 rolling hills dr memphis tn 38127,1548 rolling hills dr memphis tn 38127,30,97,0
+4399358,012024  00040,001076  00010,brownmorris kelley,starks henry l alma e,1027 bourbon pl memphis tn 38106,1079 bourbon pl memphis tn 38106,29.33333333,97,0
+4480679,058101  00027C,058102  00042,rosenthal henry d and mary e buck,lloyd erik l michelle s,4115 new willow rd memphis tn 38111,4110 new willow rd memphis tn 38111,30,97,0
+4493447,075006  00018,059036  00011,stokes gregory,stokes geraldine,72 w brooks rd memphis tn 38109,79 w brooks rd memphis tn 38109,67,97,0
+4503775,025069  00011,025074  00021,blake carolyn,fason linda,1427 mississippi blvd memphis tn 38106,1247 mississippi blvd memphis tn 38106,33,97,0
+4633986,035016  00010,075062  00016,calvin steven,johnson galvin jr regina,3347 redbud rd memphis tn 38109,3354 redbud rd memphis tn 38109,47,97,0
+4761055,050034  00053,050010  00025,garner irene t,white george mavouse,203 w mckellar ave memphis tn 38109,280 w mckellar ave memphis tn 38109,37,97,0
+4762229,050034  00053,050034  00018,garner irene t,jones versie m,203 w mckellar ave memphis tn 38109,123 w mckellar ave memphis tn 38109,38.33333333,97,0
+4804391,021109  00021,021108  00016,puckett etta julia willis,willis robert h sr,8708 pine needle dr germantown tn 38139,8707 pine needle dr germantown tn 38139,41.66666667,97,1
+4820217,076143 A00069,075080  00004,hardaway terry,shaw laketa and sukeana shaw,447 brockwood cv memphis tn 38109,441 brockwood cv memphis tn 38109,31.33333333,97,0
+4826030,041052  00145,040008  00007,moore jessie dorothy e,farwell frank t sr,2159 lyon ave memphis tn 38108,2219 lyon ave memphis tn 38108,26.66666667,97,0
+4845054,073042  00016,072024  00003,katrina properties llc,barnaclaw mary,po box 772007 memphis tn 38177,po box 722007 memphis tn 38177,37,97,1
+4929652,021121  00005,007016  00022,scott katherine j and sherron d harris,robinson vanessa b,935 n parkway memphis tn 38105,915 n parkway memphis tn 38105,34.66666667,97,0
+5229095,043011  00014,043011  00024,wortham ernest thelmarie and shealia,broome pearlie m,1463 locust st memphis tn 38108,1423 locust st memphis tn 38108,36,97,0
+5413877,049035  00011,049036  00008,london joyce a and bobby l cleveland and,crenshaw leroy jr and,1742 mcmillan st memphis tn 38106,1741 mcmillan st memphis tn 38106,39,97,0
+5416265,049035  00011,025061  00020,london joyce a and bobby l cleveland and,hicks joseph l and maurice agnew,1742 mcmillan st memphis tn 38106,1425 mcmillan st memphis tn 38106,41.66666667,97,0
+5582433,025010  00005,075080  00004,sims ora lillie,shaw laketa and sukeana shaw,416 brockwood cv memphis tn 38109,441 brockwood cv memphis tn 38109,29.33333333,97,0
+5601539,021058  00018,040003  00017,community proj ch god christ,greater community projects inc,924 n dunlap st memphis tn 38107,942 n dunlap st memphis tn 38107,58.66666667,97,0
+5611912,049036  00008,072035  00005,crenshaw leroy jr and,lewis janice,1741 mcmillan st memphis tn 38106,1871 mcmillan st memphis tn 38106,40,97,0
+5758985,071048 F00126,071048 F00137,parham joe m pearl a,briwder carla p,2547 rammesses ave memphis tn 38127,2479 rammesses ave memphis tn 38127,40,97,0
+5814009,014011  00004,033041  00005C,buehler jo e and harold e buehler jr and,town country locksmiths co inc,2531 broad ave memphis tn 38112,2583 broad ave memphis tn 38112,26,97,0
+5845359,052069  00002,037027  00020,smith virginia,walker barbara j,691 lipford st memphis tn 38112,391 lipford st memphis tn 38112,15.33333333,97,0
+5852452,075058  00066,075074  00067,marshall davey mary,greater paradise baptist church and,3495 horn lake rd memphis tn 38109,3454 horn lake rd memphis tn 38109,32,97,0
+5896070,075257  00006,075257  00003,simmons arthur mildred,hubbard margaret v trust,4887 peace st memphis tn 38109,4867 peace st memphis tn 38109,36,97,1
+5915184,072104 C00008,049022  00025,wilson bennett j,dibrell wilma a,1898 shadowlawn blvd memphis tn 38106,1880 shadowlawn blvd memphis tn 38106,34.66666667,97,0
+5937176,047064  00034,047063  00007,ross eugene and emma l r smith and,talley lorine,1560 hugenot st memphis tn 38114,1509 hugenot st memphis tn 38114,22,97,0
+6009960,047026  00023,047048  00017,gibson kenneth j jearl d,hughes lynzell martha,2312 larose ave memphis tn 38114,2632 larose ave memphis tn 38114,36,97,0
+6133871,040025  00030M,040025  00028M,story virgina,ledesma javier,1304 bauman dr memphis tn 38108,1314 bauman dr memphis tn 38108,32.33333333,97,0
+6149335,052036  00020,052036  00008,douglas ollie c,gray jessie s bertha l,611 n merton st memphis tn 38112,671 n merton st memphis tn 38112,32,97,0
+6218185,040038  00013,082001  00098,fitzgerald patricia,landshof robert,po box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,24,97,1
+6298745,060150  00014,060150  00015,malone glennie l,rhyan johnny w linnie,1884 wendy dr memphis tn 38114,1878 wendy dr memphis tn 38114,45,97,0
+6305547,060150  00015,060148  00067,rhyan johnny w linnie,turner mark,1878 wendy dr memphis tn 38114,1879 wendy dr memphis tn 38114,23,97,0
+6358260,076143 A00082,075080  00004,sims ora lillie l,shaw laketa and sukeana shaw,416 brockwood cv memphis tn 38109,441 brockwood cv memphis tn 38109,32.66666667,97,0
+6395900,060042  00015,060042  00010,roberts artell,butler gregory and armidia butler rs,2302 warren st memphis tn 38106,2326 warren st memphis tn 38106,38,97,0
+6397041,060042  00015,060057  00028,roberts artell,hoof helen m,2302 warren st memphis tn 38106,2024 warren st memphis tn 38106,31,97,0
+6503379,075063  00017,075059  00010,mathews larry d gloria h,galloway rosie b,46 w dunbar rd memphis tn 38109,96 w dunbar rd memphis tn 38109,40,97,0
+6528146,060097  00015,025035  00020,tyson georgia m,kent dorothy g estate of,1816 s barksdale st memphis tn 38114,1810 s barksdale st memphis tn 38114,36,97,0
+6658583,031058  00031,087004  00034,parker camelia,montague demetrius m scarletha,4830 yale rd memphis tn 38128,4838 yale rd memphis tn 38128,36,97,0
+6690536,076074  00001,078064  00005,gaines leonia t,moore william and delyntonues moore,3958 paula dr memphis tn 38116,3981 paula dr memphis tn 38116,33.33333333,97,0
+6691960,076074  00001,077031  00155,gaines leonia t,moore william and selyntonues moore,3958 paula dr memphis tn 38116,3981 paula dr memphis tn 38116,35,97,0
+6714637,059079  00007,059087  00004,hunt jimmie l billie j,phillips rubystine,1019 s prescott st memphis tn 38111,1071 s prescott st memphis tn 38111,41.66666667,97,0
+6791180,075142  00035,078037 A00051,jones richard and carol jones,pickens jermaine s,736 ranger ave memphis tn 38109,730 ranger ave memphis tn 38109,34,97,0
+6822303,059009  00009,059008  00027,robinson harold e barbara,brittman lucy w le and doris pryor and,1049 beverly st memphis tn 38114,1096 beverly st memphis tn 38114,36.66666667,97,0
+6835399,049009  00032,049009  00024,davis jim patience,stewart cathey a,2191 s wellington st memphis tn 38106,2151 s wellington st memphis tn 38106,33,97,1
+7235006,021073  00017,035005  00005,royster elizabeth,anderson willie m le and charlie ellis,298 edsel ave memphis tn 38109,293 edsel ave memphis tn 38109,26.33333333,97,0
+7239461,038005  00019,038006  00002,holt robert l minnie b,maxwell lillie b and mary l lovvorn,3196 given ave memphis tn 38112,3159 given ave memphis tn 38112,35.33333333,97,0
+7397359,077066  00006,077065  00035,hines frank t velmeter,crawford lloyd elmeter,677 farris rd memphis tn 38109,672 farris rd memphis tn 38109,46.66666667,97,0
+7406017,060102  00012,060102  00013,bridgeforth obbie jeriouldean,scott millie h,1901 e person ave memphis tn 38114,1907 e person ave memphis tn 38114,31.33333333,97,0
+7433245,071048 B00062,071048 B00065,robinson john e kaye e,thomas curtis l ura j,4265 lisa cv memphis tn 38127,4256 lisa cv memphis tn 38127,30,97,0
+7455935,061020  00002,061020  00008,ragland evans rosetta,young annie j estate of,2547 supreme ave memphis tn 38114,2579 supreme ave memphis tn 38114,33.33333333,97,0
+7492361,049008  00041,031085  00018,baker ruth u,powell charles,1770 wendy dr memphis tn 38114,1776 wendy dr memphis tn 38114,23,97,0
+7580296,076142  00010,076114  00032,ireland l a louise,ireland l a,5071 tulane rd memphis tn 38109,5071 tuland rd memphis tn 38109,84,97,1
+7828329,079135  00019,079134  00004,walker james r martha a,jones rasheda and rosalind taylor,5272 lochinvar rd memphis tn 38116,5227 lochinvar rd memphis tn 38116,49,97,0
+7925072,073041 D00062,060033  00008,shumba investments,hudson jesse j beatrice e,3205 s goodlett st memphis tn 38118,3290 s goodlett st memphis tn 38118,29.66666667,97,0
+7961701,075126  00005,075035  00019,jackson vernon v le and nichole m,christley cherri,743 w raines rd memphis tn 38109,763 w raines rd memphis tn 38109,30.33333333,97,0
+8082453,035049  00012,035047  00021,morris janie m and thomas b webb rs,miller mary l,236 modder ave memphis tn 38109,136 modder ave memphis tn 38109,26.33333333,97,0
+8202704,061041  00025,061005  00016,roberts jeree,glover harold carolyn,828 josephine st memphis tn 38114,838 josephine st memphis tn 38114,29,97,0
+8220023,070052  00050,070052  00045,sims turrelle m,cooper stephan d,1532 gowan dr memphis tn 38127,1562 gowan dr memphis tn 38127,26,97,0
+8229840,075075  00005,075074  00067,marshall david mary l,greater paradise baptist church and,3495 horn lake rd memphis tn 38109,3454 horn lake rd memphis tn 38109,34.66666667,97,0
+8413748,060148  00158,060148  00160,jones claudette m,mason oscar l marilyn f,1699 clementine rd memphis tn 38114,1689 clementine rd memphis tn 38114,31.66666667,97,0
+8442986,075127  00013,075130  00010,lott fred mary,jones cornelius estate of,4230 warbonnet st memphis tn 38109,4237 warbonnet st memphis tn 38109,31,97,0
+8728853,075080  00004,043077  00001,shaw laketa and sukeana shaw,hardaway terry wanda f,441 brockwood cv memphis tn 38109,447 brockwood cv memphis tn 38109,41.33333333,97,0
+8731114,088042  00077,088042  00082,echols laura w,washington luther and,2160 henrietta rd memphis tn 38134,2164 henrietta rd memphis tn 38134,36,97,0
+8926913,031035  00001,043077  00029C,scott obed e maggie l,dockery charles,976 oakview st memphis tn 38114,962 oakview st memphis tn 38114,28,97,0
+8996018,059014  00047,061042  00022,aldridge roosevelt celia m,dunning ella lee,1214 haynes st memphis tn 38114,1024 haynes st memphis tn 38114,46.33333333,97,0
+9162940,028024  00009,028031  00006,gross charles w and charles e gross,memphis heritage incorporated,2268 madison ave memphis tn 38104,2282 madison ave memphis tn 38104,31.33333333,97,0
+9185959,077072  00036,025074  00021,hayes james s living health care agency,fason linda,1324 mississippi blvd memphis tn 38106,1247 mississippi blvd memphis tn 38106,25.33333333,97,0
+9216774,084007  00284,084005  00015,burns james e frankie m,childress samuel eva l,3081 peggy rd memphis tn 38128,3080 peggy rd memphis tn 38128,41.33333333,97,0
+9216775,084007  00284,084005  00016,burns james e frankie m,childress samuel m eva l,3081 peggy rd memphis tn 38128,3080 peggy rd memphis tn 38128,42.66666667,97,0
+9234967,075013  00011,075013  00012,parker mclissa and melissa webb,jackson karl,329 w peebles rd memphis tn 38109,323 w peebles rd memphis tn 38109,28,97,0
+9235054,075013  00011,075001  00011,parker mclissa and melissa webb,martin emma j and roy martin,329 w peebles rd memphis tn 38109,342 w peebles rd memphis tn 38109,42.33333333,97,0
+9561567,060010  00092,060010  00094,terry joyce s,robinson andrew and carol mays,919 e alcy rd memphis tn 38106,929 e alcy rd memphis tn 38106,24.66666667,97,0
+9562362,060010  00092,034060  00039,terry joyce s,jackson harold,919 e alcy rd memphis tn 38106,941 e alcy rd memphis tn 38106,22,97,0
+9856623,075013  00012,075001  00011,jackson karl,martin emma j and roy martin,323 w peebles rd memphis tn 38109,342 w peebles rd memphis tn 38109,30,97,0
+9911676,044029  00025,079147  00014,rodgers tommie jr trustee,phillips william j,1901 prado ave memphis tn 38116,1990 prado ave memphis tn 38116,23,97,0
+10116344,082006  00012,082006  00020C,smith anna f,smith ronnie ada l,3473 outlet rd memphis tn 38109,3483 outlet rd memphis tn 38109,62.33333333,97,0
+10283221,075106  00020,060058  00013,hall sheila a,boddie lozie d and gwendolyn h boddie,3942 hammett dr memphis tn 38109,3954 hammett dr memphis tn 38109,24,97,0
+10344059,062011  00012C,062001  00004C,jackson tiffany e,cleveland grace m,3518 kendrick rd memphis tn 38108,3519 kendrick rd memphis tn 38108,29,97,0
+10356316,075246  00001,021057  00003,sherrod robert l sr hortense,echols hattie b,341 washburn dr memphis tn 38109,345 washburn dr memphis tn 38109,31,97,0
+10415261,049030  00035,025053  00024,wigley stephen ii,union progressive baptist church trs,1726 s wellington st memphis tn 38106,1226 s wellington st memphis tn 38106,27.33333333,97,0
+10546607,047010  00017,047085  00010,phillips barbara a,miller kevin and stephanie miller,2763 henley dr memphis tn 38114,2737 henley dr memphis tn 38114,31.33333333,97,0
+10546914,047010  00017,047086  00023,phillips barbara a,boxley randy,2763 henley dr memphis tn 38114,2761 henley dr memphis tn 38114,22.33333333,97,0
+10696067,079021 B00048,079021 B00049,williams elizabeth j,johnson george w jr,1977 francisco st memphis tn 38116,1975 francisco st memphis tn 38116,34.33333333,97,0
+10782667,076121  00003,073052  00007,brown verniest,pitchford shepherd,4370 knight arnold rd memphis tn 38118,4307 knight arnold rd memphis tn 38118,25,97,0
+10950742,059084  00019,059084  00020,porter louis pearlie,porter pearlie,1156 s greer st memphis tn 38111,1150 s greer st memphis tn 38111,88,97,0
+10954813,077017  00050,082001  00098,stallings jeffery m and dianne s stalcup,landshof robert,po box 383287 germantown tn 38183,p o box 383287 germantown tn 38183,25,97,1
+11141586,059098  00022,059050  00038,taylor ronald e and verdell e taylor,cunningham ossie l and ossie cunningham,1496 railton rd memphis tn 38111,1469 railton rd memphis tn 38111,36,97,0
+11163575,076127 A00009,076127 A00041,goss alonzo jr and alfreida goss and,taylor annie l,154 glenarm ave memphis tn 38109,105 glenarm ave memphis tn 38109,35.66666667,97,0
+11322881,082001  00098,038019  00002,landshof robert,phildax prop,p o box 383287 germantown tn 38183,po box 383287 germantown tn 38183,37,97,0
+11367729,044016  00004,071052  00072,coelho gregory,henriques c and t henriques and r,po box 11571 memphis tn 38111,po box 11351 memphis tn 38111,25.66666667,97,0
+11368572,044016  00004,029075  00049,coelho gregory,puckett mattie l estate of,po box 11571 memphis tn 38111,po box 11712 memphis tn 38111,26.66666667,97,0
+11564134,049012  00020,049011  00008,johnson sandra f,hardin george e estate of and james,518 e davant ave memphis tn 38106,511 e davant ave memphis tn 38106,29.66666667,97,0
+11858924,025034  00010,093204 A00016,smith gary sr,mitchell marvell r,3393 kirby pkwy memphis tn 38115,3329 kirby pkwy memphis tn 38115,58,97,0
+11885773,047085  00010,047086  00024,miller kevin and stephanie miller,banzant erma m,2737 henley dr memphis tn 38114,2763 henley dr memphis tn 38114,34.33333333,97,0
+12116884,075170  00027,075170  00026,jenkins clarence f jr,doss victor and ruth b latting,4883 s 3rd st memphis tn 38109,4873 s 3rd st memphis tn 38109,29.66666667,97,0
+12425105,027009  00046,027009  00041,galloway elaine r and randy c galloway,love cassell,1038 woodlawn st memphis tn 38107,1018 woodlawn st memphis tn 38107,31,97,0
+12444532,029096  00009,029097  00025,ross larry m,randle carlyn e,749 baltimore st memphis tn 38114,774 baltimore st memphis tn 38114,44,97,0
+12548244,024046  00018,024047  00020,luster je taun m and betty j luster rs,showers peter jr lolita,1342 florida st memphis tn 38106,1382 florida st memphis tn 38106,38.33333333,97,0
+12661376,025022  00019,021106  00022,downey sammie l,combs company,782 alaska st memphis tn 38107,728 alaska st memphis tn 38107,21,97,0
+12848676,029099  00015,061038  00021,cosey lori,robinson rose m,782 marianna st memphis tn 38114,829 marianna st memphis tn 38114,32,97,0
+13278632,047086  00023,047086  00024,boxley randy,banzant erma m,2761 henley dr memphis tn 38114,2763 henley dr memphis tn 38114,31,97,0
+13487578,047048  00017,047048  00018,hughes lynzell martha,thompson ella m,2632 larose ave memphis tn 38114,2626 larose ave memphis tn 38114,40.66666667,97,0
+13732086,095317 E00064,095317 E00050,stracener terry w,smith thomas w bobbye s,7150 tulip trail dr memphis tn 38133,7125 tulip trail dr memphis tn 38133,30,97,0
+13732653,095317 E00064,095317 E00043,stracener terry w,deener melvin h christine,7150 tulip trail dr memphis tn 38133,7159 tulip trail dr memphis tn 38133,36.33333333,97,0
+13959636,044005  00020,052050  00003,pinnacle pentecostal holiness church,briggs makesha,2383 jackson ave memphis tn 38108,2583 jackson ave memphis tn 38108,26.66666667,97,0
+13963961,029048  00011,059026  00027,mckinney w otis,daush michael barbara,2882 semmes st memphis tn 38114,2868 semmes st memphis tn 38114,18.66666667,97,0
+14132516,047030  00011,047030  00013,evans velva l,artry lisa and mack a neely and,2335 poe ave memphis tn 38114,2345 poe ave memphis tn 38114,31.33333333,97,0
+14177279,095317 E00050,095317 E00043,smith thomas w bobbye s,deener melvin h christine,7125 tulip trail dr memphis tn 38133,7159 tulip trail dr memphis tn 38133,26.33333333,97,0
+14222674,035012  00020,035007  00022,nixon deborah,quran abdullah i,1638 riverside blvd memphis tn 38109,1538 riverside blvd memphis tn 38109,38.66666667,97,0
+15584581,042037  00161,073041 L00062,azu onuoha,jackson alice,po box 18067 memphis tn 38181,po box 18077 memphis tn 38181,35,97,0
+16300979,070093  00007,072024  00003,barnaclo tony and tammy r potter 12,barnaclaw mary,po box 772007 memphis tn 38177,po box 722007 memphis tn 38177,42.33333333,97,0
+16310351,032009  00008,025035  00008,lemoyne owen college community dev corp,lemoyneowen college community,807 walker ave memphis tn 38126,802 walker ave memphis tn 38126,85,97,0
+16387207,075243  00017,058026  00074,lamar solomon h,r b investment corp,170 dubois dr memphis tn 38109,175 dubois dr memphis tn 38109,35,97,0
+16886636,015019  00010,026005  00008,thomas barbara,taylor cynthia,1035 rayner st memphis tn 38114,1031 rayner st memphis tn 38114,29,97,0
+17771365,031010  00001,031011  00003,alhrout osama and jaber said,walls herbert,1560 s parkway memphis tn 38106,1565 s parkway memphis tn 38106,37.33333333,97,0
+18156802,075202  00009,034015  00011C,stewart lonnie alice,jackson emanuel arnetta l,477 charter ave memphis tn 38109,577 charter ave memphis tn 38109,32.66666667,97,0
+18492351,072024  00003,072024  00005,barnaclaw mary,tab properties inc,po box 722007 memphis tn 38177,po box 772007 memphis tn 38177,25,97,0
+18742149,076087  00021,013052  00050,tate darnell,dean trini and julius graham,1365 ridgewood park rd memphis tn 38116,1375 ridgewood park rd memphis tn 38116,30,97,0
+19504325,047030  00013,047030  00014,artry lisa and mack a neely and,neely ideallestate of,2345 poe ave memphis tn 38114,2349 poe ave memphis tn 38114,41,97,0
+20076177,094120 B00038,094120 B00039,garcia hector jr,fullilove janis j,3328 morningview dr memphis tn 38118,3320 morningview dr memphis tn 38118,24,97,0
+258953,025028  00010,029017  00001,holman robert,holman mary l,922 s cox memphis tn 38104,922 s cox st memphis tn 38104,62.33333333,96.66666667,1
+386145,075009  00025,025016  00005,parker johnny l,parker johnny,3088 lotus memphis tn 38109,3088 lotus st memphis tn 38109,95.33333333,96.66666667,1
+389517,075009  00025,075087  00018,parker johnny l,parker johnny l ,3088 lotus memphis tn 38109,3088 lotus rd memphis tn 38109,99,96.66666667,1
+701907,045019  00017,073041 H00033,dawning investments llc series e,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,29.33333333,96.66666667,1
+706444,045019  00020,073041 H00033,dawning investments llc series f,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,30.33333333,96.66666667,1
+1157374,062027  00021,053049  00039,sanchez rene yolander m,sanchez rene and yolanda sanches rs,2518 berryhill rd cordova tn 38016,2518 berryhill cordova tn 38016,70,96.66666667,1
+1996204,053049  00039,096625 A00005,sanchez rene and yolanda sanches rs,sanchez rene,2518 berryhill cordova tn 38016,2518 berryhill rd cordova tn 38016,67.33333333,96.66666667,1
+2058437,051007  00018,040002  00012,community project church of god in chris,porter brandon,924 n dunlap st memphis tn 38107,924 n dunlap memphis tn 38107,28.66666667,96.66666667,1
+2720500,031057  00026,093523 O00031,gipson glenda f,gipson glenda f and alfred gipson,4387 fox hound st memphis tn 38141,4387 fox hound memphis tn 38141,75.33333333,96.66666667,1
+3378549,042026  00026,042026  00025,casey calvin e hazel,mitchum sharon c,2994 robbiedon memphis tn 38128,2994 robbiedon st memphis tn 38128,31.33333333,96.66666667,1
+3437649,049044  00014,069055  00003,sanders henry j,brooks isaiah,1983 prospect st memphis tn 38106,1983 prospect memphis tn 38106,29,96.66666667,1
+4081972,043070  00049,073041 H00033,dawning investments llc series c,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,32.33333333,96.66666667,1
+4173103,040038  00017,087075  00005,johnson mable l,johnson ivory p,971 n avalon st memphis tn 38107,971 n avalon memphis tn 38107,59,96.66666667,1
+4248769,076063  00014,076035  00116,neely david peggy j,neely david c,176 lawndale dr memphis tn 38109,176 lawndale memphis tn 38109,78.66666667,96.66666667,1
+4608210,062015  00003,062012  00066,bethesda dev corp,bethesda word of life christian center,3530 orchi st memphis tn 38108,3530 orchi memphis tn 38108,54,96.66666667,1
+4630036,031093  00008,021078  00028,ashworth karen f,brisco sidney m karen,1385 castalia st memphis tn 38114,1385 castalia memphis tn 38114,45,96.66666667,1
+5207148,045019  00041,073041 H00033,dawning investments llc series d,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,31.33333333,96.66666667,1
+5601834,021058  00018,040002  00012,community proj ch god christ,porter brandon,924 n dunlap st memphis tn 38107,924 n dunlap memphis tn 38107,27.33333333,96.66666667,1
+6047047,040035  00021,017010  00018,bryant cleophus jr,bryant cleophus lois,3678 twinmont memphis tn 38128,3678 twinmont cv memphis tn 38128,86.33333333,96.66666667,1
+6047785,040035  00021,017015  00015,bryant cleophus jr,bryant lois cleophus,3678 twinmont memphis tn 38128,3678 twinmont cv memphis tn 38128,84.66666667,96.66666667,1
+6581859,073025  00012,073041 H00033,dawning investments llc series a,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,31.33333333,96.66666667,1
+9920800,082005  00015,031006  00001,fondren tommie e erica,fondren tommy,1552 cameron st memphis tn 38106,1552 cameron memphis tn 38106,69.33333333,96.66666667,1
+10665324,069067  00029,087004  00070,sharp housing llc,sharp william,5058 scheibler memphis tn 38128,5058 scheibler rd memphis tn 38128,51,96.66666667,1
+11468208,058004  00004,073041 H00033,dawning investments llc series b,fortyfour zero one guildhall llc,111 s highland st memphis tn 38111,111 s highland memphis tn 38111,31.33333333,96.66666667,1
+12034904,061006  00006,047063  00007,talley lorine c,talley lorine,1509 hugenot memphis tn 38114,1509 hugenot st memphis tn 38114,95.33333333,96.66666667,1
+460773,014023  00066,073041 D00084,rivers antoine d,winters james,po box 1418 memphis tn 38101,po box 1491 memphis tn 38101,48,96,0
+544075,072022 E00061,072022 E00023,love james,willis eunice,po box 27667 memphis tn 38167,p o box 27667 memphis tn 38167,26,96,1
+987578,058056  00047C,083021  00069,ascension tower llc,lantern square apts llc,4040 tulane ave new orleans la 70119,4040 tulane new orleans la 70119,48,96,1
+988015,058056  00047C,073076  00015,ascension tower llc,dogwood trace apts llc,4040 tulane ave new orleans la 70119,4040 tulane new orleans la 70119,47.33333333,96,1
+1774913,033019  00001,037041  00001,cabin creek land co inc,river city companies inc,p o box 757 cordova tn 38088,po box 757 cordova tn 38088,47,96,1
+2163181,029085  00010,011008  00033,gill wendel and amika mcgaughy,gill wendell carolyn,307 e georgia memphis tn 38126,307 e georgia ave memphis tn 38126,58.66666667,96,1
+2373547,035078  00026,035006  00019,vann valery,tate floyd jr,36 w waldorf ave memphis tn 38109,268 w waldorf ave memphis tn 38109,33,96,0
+2418212,059021  00017,060116  00009,soto laura c,garcia jose,2903 montague ave memphis tn 38114,2903 montague memphis tn 38114,40.33333333,96,1
+2808169,045033  00005,045030  00027,white everlyn l,smith tanya l,707 inez st memphis tn 38111,770 inez st memphis tn 38111,33.66666667,96,0
+2945562,050037  00008,050034  00053,davis mary e,garner irene t,31 w mckellar ave memphis tn 38109,203 w mckellar ave memphis tn 38109,31,96,0
+2945608,050037  00008,050028  00011,davis mary e,mosby dorothy r,31 w mckellar ave memphis tn 38109,164 w mckellar ave memphis tn 38109,32.33333333,96,0
+2947429,050037  00008,050034  00018,davis mary e,jones versie m,31 w mckellar ave memphis tn 38109,123 w mckellar ave memphis tn 38109,31,96,0
+3571697,021025  00027,021022  00005,tanernacle cogic,tabernacle cogic,po box 461 memphis tn 38101,po box 401 memphis tn 38101,94,96,1
+3573413,021025  00027,005016  00014,tanernacle cogic,williams alvin,po box 461 memphis tn 38101,po box 631 memphis tn 38101,22.33333333,96,1
+3574284,021025  00027,013052  00002,tanernacle cogic,williams alvin b,po box 461 memphis tn 38101,po box 631 memphis tn 38101,21,96,1
+3646871,043040  00019,043039  00009,wade shirley and mary wade,harris dor0thy,1462 orr st memphis tn 38108,1463 orr st memphis tn 38108,31.33333333,96,0
+3697616,040037  00032,040037  00035,shaw jo a,miller norris,1006 n willett st memphis tn 38107,1020 n willet st memphis tn 38107,24,96,0
+4161347,075134  00024,075134  00028,harris leroy rose m,rockett yvonne,914 western park dr memphis tn 38109,940 westen park dr memphis tn 38109,30,96,0
+4169316,075134  00028,027029  00045,rockett yvonne,new greater life missionary baptist,940 westen park dr memphis tn 38109,914 western park dr memphis tn 38109,30,96,0
+4570974,043023  00230,084010  00126,bradley dolores,briggs dolores b,p o box 281098 memphis tn 38168,po box 281098 memphis tn 38168,65,96,1
+4674141,075033  00025,075033  00026,wright thomas savannah,bolden willie m,640 king rd memphis tn 38109,644 king rd memphis tn 38109,28.66666667,96,0
+4845023,073042  00016,069008  00055,katrina properties llc,timco properties llc,po box 772007 memphis tn 38177,p o box 772007 memphis tn 38177,76.66666667,96,1
+5050896,043037  00013,043036  00025,dowdy emma,cox john l betty,1535 ash st memphis tn 38108,1531 ash st memphis tn 38108,17.66666667,96,1
+5333478,075094  00005,075139  00044,meg capital management,green reginald,815 n labrea inglewood ca 90302,815 n labrea ave inglewood ca 90302,35.33333333,96,1
+5509133,043036  00018,043036  00025,stokes joseph,cox john l betty,1518 ash st memphis tn 38108,1531 ash st memphis tn 38108,30,96,0
+5633165,050059  00022,050057  00017,fields edward and deborah fields,petty venora le and freda hopkins and,14 e norwood ave memphis tn 38109,152 e norwood ave memphis tn 38109,40,96,0
+6389845,075063  00004,075070  00004,wilkins willie c bernice,coleman robert l mary f,33 w belle haven rd memphis tn 38109,33 e belle haven rd memphis tn 38109,30,96,1
+6455343,077046  00024,079067 A00033,genesis properties,gavin ozeil r sophia m,po box 3945 memphis tn 38173,p o box 3945 memphis tn 38173,45,96,1
+6455488,077046  00024,060039  00082,genesis properties,gavin sophia m ozeil r,po box 3945 memphis tn 38173,p o box 3945 memphis tn 38173,43.33333333,96,1
+6757488,075024  00011,073095  00001,os realty,o realty inc,p o box 163 southaven ms 38671,po box 163 southaven ms 38671,77.33333333,96,1
+6760047,075024  00011,034035  00006,os realty,global medias inc,p o box 163 southaven ms 38671,po box 163 southaven ms 38671,31,96,1
+7330699,059037  00062,038010  00018,c w b properties llc,cwb properties llc,540 s mendenhall memphis tn 38117,540 s mendenhall ave memphis tn 38117,89.33333333,96,1
+9690898,090039  00002,094401 E00079,holldon co inc,holldon company inc,po box 1924 cordova tn 38088,p o box 1924 cordova tn 38088,86,96,1
+10488158,070066  00022,090042  00004,hunt investments usa llc,karcha usa llc,1410 stratton pl dr chattanooga tn 37421,1410 stratton place dr chattanooga tn 37421,53.66666667,96,1
+11949990,025006  00002,042015  00004,myers davida and barbara williams,eighteen wayz investments of memphis llc,po box 9038 memphis tn 38190,po box 9383 memphis tn 38190,29,96,0
+12452582,043096  00007,033036  00018,lindsey gregory,pl trust,3735 rockwood memphis tn 38122,3735 rockwood ave memphis tn 38122,20,96,1
+12679664,005016  00014,021094  00010,williams alvin,elohim world outreach ministries inc,po box 631 memphis tn 38101,po box 603 memphis tn 38101,29.33333333,96,0
+13120848,041033  00059,041034  00012,gray bobbie j,locust dorey,2190 howell memphis tn 38108,3190 howell memphis tn 38108,29.33333333,96,0
+14799460,073106  00023,045030  00027,white tramell r,smith tanya l,707 inez st memphis tn 38111,770 inez st memphis tn 38111,33.66666667,96,0
+14912247,021094  00010,013052  00002,elohim world outreach ministries inc,williams alvin b,po box 603 memphis tn 38101,po box 631 memphis tn 38101,28.33333333,96,0
+15071553,047020  00010C,073001  00040C,schwarz properties llc,schwartz properties llc,po box 1104 asheboro nc 27204,p o box 1104 asheboro nc 27204,98,96,1
+16300948,070093  00007,069008  00055,barnaclo tony and tammy r potter 12,timco properties llc,po box 772007 memphis tn 38177,p o box 772007 memphis tn 38177,33.66666667,96,1
+18351704,069008  00055,072024  00005,timco properties llc,tab properties inc,p o box 772007 memphis tn 38177,po box 772007 memphis tn 38177,74,96,1
+2457693,041063  00023,040002  00012,community project church of god in,porter brandon,924 w dunlap memphis tn 38107,924 n dunlap memphis tn 38107,31.66666667,95.66666667,1
+2462230,041063  00024,040002  00012,community project chrurch of god in,porter brandon,924 w dunlap memphis tn 38107,924 n dunlap memphis tn 38107,31.66666667,95.66666667,1
+3546850,021040  00039,021030  00007,lewis josephine,holmes terrence,823 crockett memphis tn 38107,823 crocket st memphis tn 38107,37.66666667,95.66666667,1
+4113409,052047  00006,021018  00007,stuart nama a,stuart john b,1053 faxon memphis tn 38105,1053 faxon ave memphis tn 38105,69,95.33333333,1
+4961116,072099  00037,072042  00009,phillips barbera and company inc,phillips barbera and co inc,9753 foxhill cir germantown tn 38139,9753 fox hill cir germantown tn 38139,92.66666667,95.33333333,1
+4961421,072099  00037,072077  00007,phillips barbera and company inc,phillips and barbera and co inc,9753 foxhill cir germantown tn 38139,9753 fox hill cir germantown tn 38139,88.66666667,95.33333333,1
+18211354,014030  00015,025035  00008,lemoyne owen college community dev,lemoyneowen college community,802 walker memphis tn 38126,802 walker ave memphis tn 38126,92,95.33333333,1
+76065,034019  00025,049022  00025,stepter james h mary a,dibrell wilma a,1620 shadowlawn blvd memphis tn 38106,1880 shadowlawn blvd memphis tn 38106,34,95,0
+459148,014023  00066,031087  00018,rivers antoine d,richardson william h,po box 1418 memphis tn 38101,po box 180 memphis tn 38101,31.66666667,95,0
+881089,026068  00014,031087  00018,census tract 61 neighborhood council,richardson william h,po box 1062 memphis tn 38101,po box 180 memphis tn 38101,32,95,0
+881750,026068  00014,049080  00002,census tract 61 neighborhood council,nelson carrie b,po box 1062 memphis tn 38101,po box 262 memphis tn 38101,26,95,0
+1314860,042036  00033,095317 E00041,norman paul e diana j,clunan paul w ii charlotte m,2171 winding path dr memphis tn 38133,2168 winding path dr memphis tn 38133,47.66666667,95,0
+1330553,044028  00008,074090 A00144,kc rental properties llc,h and l holdings inc,266 s front st memphis tn 38103,66 s front st memphis tn 38103,37.66666667,95,0
+1437818,075259 B00039,091011 B00017,krahl jimmy homes llc,cordova the village pd property owners,6389 quail hollow rd memphis tn 38120,6489 n quail hollow rd memphis tn 38120,34,95,0
+1507647,034050  00019,096919 B00036C,devlaliwalla berzin r,minor teri j,1128 hunters lake dr cordova tn 38018,1167 hunters lake dr cordova tn 38018,32,95,0
+2724988,045120  00047,040022  00009,walker robert l etal,sanes leroy sonja b,4585 walnut grove rd memphis tn 38117,4899 walnut grove rd memphis tn 38117,36,95,0
+3033471,074044  00024,073052  00007,draper thomas virginia,pitchford shepherd,5078 knight arnold rd memphis tn 38118,4307 knight arnold rd memphis tn 38118,30,95,0
+3169751,073041 C00059,073041 A00024,walker dwight a zina y,jones martha e,4171 parkchester ave memphis tn 38118,4081 parkchester ave memphis tn 38118,28,95,0
+3317539,034058  00002,025069  00011,webb cora l,blake carolyn,1493 mississippi blvd memphis tn 38106,1427 mississippi blvd memphis tn 38106,30.66666667,95,0
+3318571,034058  00002,077072  00036,webb cora l,hayes james s living health care agency,1493 mississippi blvd memphis tn 38106,1324 mississippi blvd memphis tn 38106,25.33333333,95,0
+3319618,034058  00002,025074  00021,webb cora l,fason linda,1493 mississippi blvd memphis tn 38106,1247 mississippi blvd memphis tn 38106,27,95,0
+3399058,038090  00008,038094  00119,hernandez rita a alfonso a ordaz,fisher michael t,1035 e rossiland cir memphis tn 38122,1048 e rossiland cir memphis tn 38122,36.66666667,95,0
+3789430,025056  00034,034006  00024,davis james e walter b,jones gwendolyn,1404 s wellington st memphis tn 38106,1496 s wellington st memphis tn 38106,28.66666667,95,0
+3790101,025056  00034,049020  00021,davis james e walter b,davis robert and mia c davis,1404 s wellington st memphis tn 38106,1864 s wellington st memphis tn 38106,50.33333333,95,0
+3790276,025056  00034,075243  00026,davis james e walter b,jones gwendolyn and prince jones,1404 s wellington st memphis tn 38106,1496 s wellington st memphis tn 38106,36,95,0
+4137189,031087  00018,007022  00004,richardson william h,kennedy k c,po box 180 memphis tn 38101,po box 1703 memphis tn 38101,15,95,1
+4350165,072061 A00031,072062  00097,warren suretha t and eugene toy,welther patricia,3287 mountain terrace st memphis tn 38127,3152 mountain terrace st memphis tn 38127,27.33333333,95,0
+4350381,072061 A00031,040049  00017,warren suretha t and eugene toy,marshall willola roderick,3287 mountain terrace st memphis tn 38127,2784 mountain terrace st memphis tn 38127,32,95,0
+4350506,072061 A00031,069050  00008,warren suretha t and eugene toy,funk susan,3287 mountain terrace st memphis tn 38127,3168 mountain terrace st memphis tn 38127,32.33333333,95,0
+4489090,075006  00016,075047  00002,davis arthur mary c,miller millie,48 w brooks rd memphis tn 38109,435 w brooks rd memphis tn 38109,21,95,0
+4502728,025069  00011,077072  00036,blake carolyn,hayes james s living health care agency,1427 mississippi blvd memphis tn 38106,1324 mississippi blvd memphis tn 38106,29.66666667,95,0
+4697301,034006  00024,049009  00032,jones gwendolyn,davis jim patience,1496 s wellington st memphis tn 38106,2191 s wellington st memphis tn 38106,28,95,0
+4697501,034006  00024,049020  00021,jones gwendolyn,davis robert and mia c davis,1496 s wellington st memphis tn 38106,1864 s wellington st memphis tn 38106,24.33333333,95,0
+4698090,034006  00024,049030  00035,jones gwendolyn,wigley stephen ii,1496 s wellington st memphis tn 38106,1726 s wellington st memphis tn 38106,25,95,0
+4698641,034006  00024,025053  00024,jones gwendolyn,union progressive baptist church trs,1496 s wellington st memphis tn 38106,1226 s wellington st memphis tn 38106,20,95,0
+5111955,075118  00001,047065  00031,norwood larry,woods freddie j and deadrick woods,599 w raines rd memphis tn 38109,45 w raines rd memphis tn 38109,35.66666667,95,0
+5410636,002025  00005,017030  00030,brass door llc,mad will properties llc,152 madison ave memphis tn 38104,1555 madison ave memphis tn 38104,41.33333333,95,0
+5714525,094120 B00286,075150  00109,baskerville elsie,white milton,3396 spring shadow dr memphis tn 38118,3320 spring shadow dr memphis tn 38118,32,95,0
+5913710,072104 C00008,049023  00003,wilson bennett j,baker percy l lenora t,1898 shadowlawn blvd memphis tn 38106,1847 shadowlawn blvd memphis tn 38106,30,95,0
+6368508,049011  00014,050071  00009,mcneil emmett jr mary f,smith sandra g and virginia culpepper,545 e davant memphis tn 38106,55 e davant memphis tn 38109,32,95,0
+6616944,082004  00004,075076  00014,jefferson ed jr,wash sam mary l,1179 elder rd memphis tn 38109,198 elder rd memphis tn 38109,27,95,0
+6723632,049031  00010,034028  00012C,bishop harold christine w,christ communion temple cogic,1741 s lauderdale st memphis tn 38106,1519 s lauderdale st memphis tn 38106,37,95,0
+6811834,047030  00006,090027  00144,madison shirley,newson frank j jr darletta,3100 walnut grove rd memphis tn 38111,3321 walnut grove rd memphis tn 38111,27.33333333,95,0
+6834603,049009  00032,075243  00026,davis jim patience,jones gwendolyn and prince jones,2191 s wellington st memphis tn 38106,1496 s wellington st memphis tn 38106,37.66666667,95,0
+6903592,072109  00008,090057  00082,ford james h merilyn,ford james,2967 sky way dr memphis tn 38127,2967 skyway dr memphis tn 38127,78,95,1
+7072885,071048 E00066,071066  00006,reynolds la f,echols tarsha,4248 beacon hills dr memphis tn 38127,4441 beacon hills dr memphis tn 38127,36,95,0
+7143977,061028  00018,079137  00009,clark rosemarie r and joseph randolph jr,davis claudea,5600 santa barbara st memphis tn 38116,5376 santa barbara st memphis tn 38116,28.66666667,95,0
+7666227,047034  00028,031078  00010,woods emmett and margaret woods,person mack and marjorie nolan,po box 16157 memphis tn 38186,po box 161415 memphis tn 38186,49.66666667,95,1
+7666505,047034  00028,070050  00032,woods emmett and margaret woods,rucker william and nobles green,po box 16157 memphis tn 38186,po box 161721 memphis tn 38186,36.66666667,95,1
+7742003,049020  00021,075243  00026,davis robert and mia c davis,jones gwendolyn and prince jones,1864 s wellington st memphis tn 38106,1496 s wellington st memphis tn 38106,38.33333333,95,0
+7742417,049020  00021,049030  00035,davis robert and mia c davis,wigley stephen ii,1864 s wellington st memphis tn 38106,1726 s wellington st memphis tn 38106,28,95,0
+7742968,049020  00021,025053  00024,davis robert and mia c davis,union progressive baptist church trs,1864 s wellington st memphis tn 38106,1226 s wellington st memphis tn 38106,33.33333333,95,0
+7961191,075126  00005,047065  00031,jackson vernon v le and nichole m,woods freddie j and deadrick woods,743 w raines rd memphis tn 38109,45 w raines rd memphis tn 38109,41.33333333,95,0
+8041337,090071  00008,090071  00014,callicutt dennis bertha l,irvin vivian a nadean,3709 hawkins mill rd memphis tn 38128,3733 hawkins mill rd memphis tn 38128,32,95,0
+8041832,090071  00008,084007  00268,callicutt dennis bertha l,irvin nadean,3709 hawkins mill rd memphis tn 38128,3733 hawkins mill rd memphis tn 38128,30.33333333,95,0
+8536392,075243  00026,049030  00035,jones gwendolyn and prince jones,wigley stephen ii,1496 s wellington st memphis tn 38106,1726 s wellington st memphis tn 38106,28.66666667,95,0
+8536943,075243  00026,025053  00024,jones gwendolyn and prince jones,union progressive baptist church trs,1496 s wellington st memphis tn 38106,1226 s wellington st memphis tn 38106,33,95,0
+8600606,073095  00001,082044  00140,o realty inc,rodgers jocquell ronald,po box 163 southaven ms 38671,po box 1616 southaven ms 38671,38,95,0
+9072936,049023  00003,049022  00025,baker percy l lenora t,dibrell wilma a,1847 shadowlawn blvd memphis tn 38106,1880 shadowlawn blvd memphis tn 38106,35.66666667,95,0
+9107767,090010  00019,090010  00024,malone dorothy l,butcher martin,3290 spring valley cv memphis tn 38128,3277 spring valley cv memphis tn 38128,35.66666667,95,0
+9965928,093510 B00028,093510 B00024,gray helen,allied construction co robert l rorie,4380 indian trail dr memphis tn 38141,4377 indian trail dr memphis tn 38141,18.33333333,95,0
+10052117,084010  00126,084010  00221,briggs dolores b,jones willie helen,po box 281098 memphis tn 38168,po box 28079 memphis tn 38168,29,95,0
+10784104,076121  00003,073052  00001,brown verniest,cowan luke jr,4370 knight arnold rd memphis tn 38118,4267 knight arnold rd memphis tn 38118,44,95,0
+11831476,049078  00004,050119  00036,askew fred,askew fred and edmond askew,300 s 3rd st memphis tn 38103,3000 s 3rd st memphis tn 38109,69.33333333,95,0
+12503627,073052  00007,073052  00001,pitchford shepherd,cowan luke jr,4307 knight arnold rd memphis tn 38118,4267 knight arnold rd memphis tn 38118,32,95,0
+12684365,053063  00015,053104  00033,dean jerry a cynthia k,oglesby alfred l mary a,1221 wells station rd memphis tn 38122,1274 wells station rd memphis tn 38122,34.33333333,95,0
+13574621,082044  00140,034035  00006,rodgers jocquell ronald,global medias inc,po box 1616 southaven ms 38671,po box 163 southaven ms 38671,26.66666667,95,0
+15370689,029075  00049,045021  00009,puckett mattie l estate of,bentley juanita,po box 11712 memphis tn 38111,po box 111269 memphis tn 38111,34,95,0
+15733291,022025  00013,070050  00032,gibson kevin p kathy l,rucker william and nobles green,po box 16072 memphis tn 38186,po box 161721 memphis tn 38186,28.66666667,95,0
+16877163,072062  00097,069050  00008,welther patricia,funk susan,3152 mountain terrace st memphis tn 38127,3168 mountain terrace st memphis tn 38127,10.33333333,95,0
